@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 720" width="860" height="720">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5b9bd5"/>
+    </marker>
+  </defs>
+
+  <rect width="860" height="720" fill="#ffffff" rx="6"/>
+  <text x="430" y="36" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">&#26172;&#22812;&#33410;&#24459;&#29983;&#27963;&#34920;</text>
+  <text x="430" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#2d5a88">&#23376;&#21320;&#27969;&#27880; &#215; &#29616;&#20195;&#26102;&#38388;&#29983;&#29289;&#23398;</text>
+
+  <!-- Time blocks -->
+  <rect x="80" y="75" width="700" height="55" rx="6" fill="#1a3a5c"/>
+  <text x="130" y="100" font-family="Arial, sans-serif" font-size="13" fill="#5b9bd5" font-weight="bold">&#23493;&#26102; 3&#8211;5</text>
+  <text x="240" y="100" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">&#32954; &#183; &#28145;&#21628;&#21560;&#65292;&#36523;&#20307;&#24320;&#22987;&#33487;&#37266;</text>
+  <text x="660" y="100" font-family="Arial, sans-serif" font-size="11" fill="#b8d4e8" text-anchor="end">&#30382;&#36136;&#37255;&#24320;&#22987;&#19978;&#21319;</text>
+
+  <rect x="80" y="140" width="700" height="55" rx="6" fill="#2d5a88"/>
+  <text x="130" y="165" font-family="Arial, sans-serif" font-size="13" fill="#5b9bd5" font-weight="bold">&#21359;&#26102; 5&#8211;7</text>
+  <text x="240" y="165" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">&#22823;&#32928; &#183; &#26368;&#20339;&#25490;&#20415;&#26102;&#38388;</text>
+  <text x="660" y="165" font-family="Arial, sans-serif" font-size="11" fill="#b8d4e8" text-anchor="end">&#32467;&#32928;&#34837;&#21160;&#36798;&#21040;&#23792;&#20540;</text>
+
+  <rect x="80" y="205" width="700" height="55" rx="6" fill="#e0913a"/>
+  <text x="130" y="230" font-family="Arial, sans-serif" font-size="13" fill="#1a3a5c" font-weight="bold">&#36784;&#26102; 7&#8211;9</text>
+  <text x="240" y="230" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">&#32963; &#183; &#21507;&#19968;&#22825;&#20013;&#26368;&#20016;&#30427;&#30340;&#19968;&#39184;</text>
+  <text x="660" y="230" font-family="Arial, sans-serif" font-size="11" fill="#1a3a5c" text-anchor="end">&#28040;&#21270;&#37238;&#20998;&#27852;&#36798;&#21040;&#39640;&#23792;</text>
+
+  <rect x="80" y="270" width="700" height="55" rx="6" fill="#5b9bd5"/>
+  <text x="130" y="295" font-family="Arial, sans-serif" font-size="13" fill="#1a3a5c" font-weight="bold">&#24051;&#26102; 9&#8211;11</text>
+  <text x="240" y="295" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">&#33086; &#183; &#36816;&#21270;&#27700;&#35895;&#65292;&#19987;&#27880;&#24037;&#20316;</text>
+  <text x="660" y="295" font-family="Arial, sans-serif" font-size="11" fill="#1a3a5c" text-anchor="end">&#33008;&#23707;&#32032;&#25935;&#24863;&#24615;&#26368;&#39640;</text>
+
+  <rect x="80" y="335" width="700" height="55" rx="6" fill="#4a9e6b"/>
+  <text x="130" y="360" font-family="Arial, sans-serif" font-size="13" fill="#1a3a5c" font-weight="bold">&#21320;&#26102; 11&#8211;13</text>
+  <text x="240" y="360" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">&#24515; &#183; &#21320;&#38388;&#23567;&#25001; 20 &#20998;&#38047;</text>
+  <text x="660" y="360" font-family="Arial, sans-serif" font-size="11" fill="#1a3a5c" text-anchor="end">&#34880;&#21387;&#33258;&#28982;&#19979;&#38477;</text>
+
+  <rect x="80" y="400" width="700" height="55" rx="6" fill="#2d5a88"/>
+  <text x="130" y="425" font-family="Arial, sans-serif" font-size="13" fill="#5b9bd5" font-weight="bold">&#30003;&#26102; 15&#8211;17</text>
+  <text x="240" y="425" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">&#33152;&#33009; &#183; &#22810;&#39278;&#27700;&#65292;&#26368;&#36866;&#21512;&#36816;&#21160;</text>
+  <text x="660" y="425" font-family="Arial, sans-serif" font-size="11" fill="#b8d4e8" text-anchor="end">&#20307;&#28201;&#23792;&#20540;&#65292;&#20307;&#33021;&#34920;&#29616;&#26368;&#20339;</text>
+
+  <rect x="80" y="465" width="700" height="55" rx="6" fill="#5b9bd5"/>
+  <text x="130" y="490" font-family="Arial, sans-serif" font-size="13" fill="#1a3a5c" font-weight="bold">&#37193;&#26102; 17&#8211;19</text>
+  <text x="240" y="490" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">&#32958; &#183; &#34255;&#31934;&#32435;&#27668;&#65292;&#26202;&#39184;&#23452;&#36731;</text>
+  <text x="660" y="490" font-family="Arial, sans-serif" font-size="11" fill="#1a3a5c" text-anchor="end">&#32908;&#32905;&#21147;&#37327;&#21644;&#26580;&#38887;&#24615;&#36798;&#23792;</text>
+
+  <rect x="80" y="530" width="700" height="55" rx="6" fill="#7b5ea7"/>
+  <text x="130" y="555" font-family="Arial, sans-serif" font-size="13" fill="#f0f0f0" font-weight="bold">&#25100;&#26102; 19&#8211;21</text>
+  <text x="240" y="555" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">&#24515;&#21253; &#183; &#25918;&#26494;&#36523;&#24515;&#65292;&#19982;&#20154;&#20132;&#27969;</text>
+  <text x="660" y="555" font-family="Arial, sans-serif" font-size="11" fill="#d0c0e8" text-anchor="end">&#35114;&#40657;&#32032;&#24320;&#22987;&#20998;&#27852;</text>
+
+  <rect x="80" y="595" width="700" height="55" rx="6" fill="#1a3a5c"/>
+  <text x="130" y="620" font-family="Arial, sans-serif" font-size="13" fill="#5b9bd5" font-weight="bold">&#20133;&#26102; 21&#8211;23</text>
+  <text x="240" y="620" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">&#19977;&#28966; &#183; &#23433;&#38745;&#25910;&#24515;&#65292;&#20934;&#22791;&#20837;&#30561;</text>
+  <text x="660" y="620" font-family="Arial, sans-serif" font-size="11" fill="#b8d4e8" text-anchor="end">&#26680;&#24515;&#20307;&#28201;&#19979;&#38477;</text>
+
+  <rect x="80" y="660" width="340" height="45" rx="6" fill="#263238"/>
+  <text x="130" y="685" font-family="Arial, sans-serif" font-size="13" fill="#5b9bd5" font-weight="bold">&#23376;&#26102; 23&#8211;1</text>
+  <text x="240" y="685" font-family="Arial, sans-serif" font-size="13" fill="#f0f0f0">&#32966; &#183; &#28145;&#30561;&#30496;</text>
+
+  <rect x="440" y="660" width="340" height="45" rx="6" fill="#263238"/>
+  <text x="490" y="685" font-family="Arial, sans-serif" font-size="13" fill="#5b9bd5" font-weight="bold">&#19985;&#26102; 1&#8211;3</text>
+  <text x="600" y="685" font-family="Arial, sans-serif" font-size="13" fill="#f0f0f0">&#32925; &#183; &#25490;&#27602;&#20462;&#22797;</text>
+</svg>

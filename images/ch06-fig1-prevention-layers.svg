@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 440" width="860" height="440">
+  <defs>
+    <marker id="arrowDown" viewBox="0 0 10 6" refX="5" refY="6" markerWidth="8" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,0 L5,6 Z" fill="#5b9bd5"/>
+    </marker>
+    <filter id="shadow" x="-2%" y="-2%" width="104%" height="108%">
+      <feDropShadow dx="1" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="860" height="440" fill="#f0f0f0" rx="10"/>
+
+  <text x="430" y="20" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11" opacity="0.5">&#22270; 6-1 &#39044;&#38450;&#21307;&#23398;&#22235;&#23618;&#27169;&#22411;</text>
+
+  <rect x="205" y="38" width="450" height="72" rx="6" fill="#1a3a5c" filter="url(#shadow)"/>
+  <text x="430" y="62" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">&#31532;&#19968;&#23618; &#183; &#26410;&#30149;&#20808;&#38450;</text>
+  <text x="430" y="82" text-anchor="middle" fill="#5b9bd5" font-family="Arial, sans-serif" font-size="12">Wei Bing Xian Fang</text>
+  <text x="430" y="100" text-anchor="middle" fill="#b8d4e8" font-family="Arial, sans-serif" font-size="11">&#20859;&#29983;&#27491;&#27668;&#65292;&#22266;&#25252;&#20803;&#27668; &#183; &#8220;&#27491;&#27668;&#23384;&#20869;&#65292;&#37034;&#19981;&#21487;&#24178;&#8221;</text>
+
+  <line x1="430" y1="110" x2="430" y2="130" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowDown)"/>
+
+  <rect x="205" y="138" width="450" height="72" rx="6" fill="#2d5a88" filter="url(#shadow)"/>
+  <text x="430" y="162" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">&#31532;&#20108;&#23618; &#183; &#26082;&#30149;&#38450;&#21464;</text>
+  <text x="430" y="182" text-anchor="middle" fill="#a8cce8" font-family="Arial, sans-serif" font-size="12">Ji Bing Fang Bian</text>
+  <text x="430" y="200" text-anchor="middle" fill="#d0e4f0" font-family="Arial, sans-serif" font-size="11">&#35782;&#21035;&#26089;&#26399;&#20449;&#21495;&#65292;&#38459;&#26029;&#21319;&#32423; &#183; &#20122;&#20581;&#24247;&#24178;&#39044;&#31383;&#21475;</text>
+
+  <line x1="430" y1="210" x2="430" y2="230" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowDown)"/>
+
+  <rect x="205" y="238" width="450" height="72" rx="6" fill="#5b9bd5" filter="url(#shadow)"/>
+  <text x="430" y="262" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">&#31532;&#19977;&#23618; &#183; &#24840;&#21518;&#38450;&#22797;</text>
+  <text x="430" y="282" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="12">Yu Hou Fang Fu</text>
+  <text x="430" y="300" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11">&#24674;&#22797;&#26399;&#21152;&#20493;&#29233;&#25252;&#65292;&#38450;&#27490;&#26087;&#30149;&#22797;&#21457;</text>
+
+  <line x1="430" y1="310" x2="430" y2="330" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowDown)"/>
+
+  <rect x="205" y="338" width="450" height="72" rx="6" fill="#7ab8e0" filter="url(#shadow)"/>
+  <text x="430" y="362" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="16" font-weight="bold">&#31532;&#22235;&#23618; &#183; &#22240;&#26102;&#21046;&#23452;</text>
+  <text x="430" y="382" text-anchor="middle" fill="#2d5a88" font-family="Arial, sans-serif" font-size="12">Yin Shi Zhi Yi</text>
+  <text x="430" y="400" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11">&#25353;&#23395;&#33410;&#12289;&#24180;&#40836;&#12289;&#20307;&#36136;&#21160;&#24577;&#35843;&#25972;</text>
+
+  <text x="170" y="78" text-anchor="end" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11" font-weight="bold">&#19978;&#24037; &#8594;</text>
+  <text x="170" y="178" text-anchor="end" fill="#2d5a88" font-family="Arial, sans-serif" font-size="11" font-weight="bold">&#20013;&#24037; &#8594;</text>
+  <text x="170" y="278" text-anchor="end" fill="#5b9bd5" font-family="Arial, sans-serif" font-size="11" font-weight="bold">&#24840;&#21518; &#8594;</text>
+
+  <text x="690" y="78" text-anchor="start" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11">&#8592; &#20581;&#24247;&#38454;&#27573;</text>
+  <text x="690" y="178" text-anchor="start" fill="#2d5a88" font-family="Arial, sans-serif" font-size="11">&#8592; &#20122;&#20581;&#24247;&#38454;&#27573;</text>
+  <text x="690" y="278" text-anchor="start" fill="#5b9bd5" font-family="Arial, sans-serif" font-size="11">&#8592; &#24674;&#22797;&#38454;&#27573;</text>
+  <text x="690" y="378" text-anchor="start" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11">&#8592; &#20840;&#29983;&#21629;&#21608;&#26399;</text>
+
+  <text x="430" y="432" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="10" opacity="0.4">&#26469;&#28304;&#65306;&#22522;&#20110;&#12298;&#40644;&#24093;&#20869;&#32463;&#12299;&#39044;&#38450;&#21307;&#23398;&#26694;&#26550;</text>
+</svg>

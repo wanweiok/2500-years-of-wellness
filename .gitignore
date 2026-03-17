@@ -1,0 +1,5 @@
+*.pdf
+*.epub
+*.docx
+.DS_Store
+Thumbs.db

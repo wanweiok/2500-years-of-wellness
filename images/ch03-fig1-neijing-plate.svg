@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 620" width="860" height="620">
+  <rect width="860" height="620" fill="#f8f9fa" rx="6"/>
+
+  <text x="430" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1a3a5c">&#20869;&#32463;&#39184;&#30424;</text>
+  <text x="430" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#666">&#22235;&#31867;&#39135;&#29289; &#183; &#20116;&#21619;&#35843;&#21644; &#183; &#19971;&#20998;&#39281;</text>
+
+  <circle cx="430" cy="310" r="210" fill="none" stroke="#1a3a5c" stroke-width="3" opacity="0.15"/>
+
+  <!-- Grains 37.5% -->
+  <path d="M 430 310 L 430 100 A 200 200 0 0 1 571.4 441.4 Z" fill="#5b9bd5" stroke="#ffffff" stroke-width="2.5"/>
+  <!-- Vegetables 32.5% -->
+  <path d="M 430 310 L 571.4 441.4 A 200 200 0 0 1 239.8 361.8 Z" fill="#4a9a5a" stroke="#ffffff" stroke-width="2.5"/>
+  <!-- Fruits 12.5% -->
+  <path d="M 430 310 L 239.8 361.8 A 200 200 0 0 1 251.8 209.2 Z" fill="#e8a849" stroke="#ffffff" stroke-width="2.5"/>
+  <!-- Meat/Eggs 17.5% -->
+  <path d="M 430 310 L 251.8 209.2 A 200 200 0 0 1 430 100 Z" fill="#2d5a88" stroke="#ffffff" stroke-width="2.5"/>
+
+  <!-- Center -->
+  <circle cx="430" cy="310" r="62" fill="#1a3a5c" stroke="#ffffff" stroke-width="3"/>
+  <text x="430" y="304" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">&#20116;&#21619;&#35843;&#21644;</text>
+  <text x="430" y="326" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#a0c4e8">&#37240; &#183; &#33510; &#183; &#29976; &#183; &#36763; &#183; &#21688;</text>
+
+  <!-- Labels -->
+  <text x="540" y="232" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">&#35895;&#29289;&#20026;&#20859;</text>
+  <text x="540" y="254" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">35&#8211;40%</text>
+  <text x="540" y="274" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#dce8f5">&#31961;&#31859; &#183; &#23567;&#31859; &#183; &#29141;&#40614;</text>
+
+  <text x="440" y="438" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff">&#34092;&#33756;&#20026;&#20805;</text>
+  <text x="440" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">30&#8211;35%</text>
+  <text x="440" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#d4edda">&#28145;&#33394;&#20248;&#20808; &#183; &#24403;&#23395;&#20026;&#20339;</text>
+
+  <text x="268" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">&#27700;&#26524;&#20026;&#21161;</text>
+  <text x="268" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#fff5e0">10&#8211;15%</text>
+
+  <text x="340" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">&#32905;&#34507;&#20026;&#30410;</text>
+  <text x="340" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#c8daf0">15&#8211;20%</text>
+
+  <!-- Bottom guidance -->
+  <rect x="180" y="548" width="500" height="42" rx="6" fill="#1a3a5c" opacity="0.08"/>
+  <text x="430" y="568" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1a3a5c" font-weight="bold">&#39277;&#21507;&#19971;&#20998;&#39281; &#183; &#32454;&#22204;&#24930;&#21693; &#183; &#24773;&#32490;&#24179;&#21644;&#26102;&#36827;&#39135;</text>
+  <text x="430" y="586" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">&#20869;&#32463;&#39184;&#30424;&#65306;&#27599;&#39184;&#35206;&#30422; &#8805; 3 &#31181;&#21619;&#36947;</text>
+</svg>

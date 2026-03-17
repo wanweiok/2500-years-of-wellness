@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 470" width="860" height="470">
+  <defs>
+    <marker id="arrowSolid" viewBox="0 0 10 6" refX="9" refY="3" markerWidth="8" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,3 L0,6 Z" fill="#5b9bd5"/>
+    </marker>
+  </defs>
+
+  <rect width="860" height="470" fill="#f0f0f0" rx="10"/>
+
+  <rect x="305" y="28" width="250" height="58" rx="6" fill="#1a3a5c"/>
+  <text x="430" y="52" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">&#38452;&#38451;</text>
+  <text x="430" y="72" text-anchor="middle" fill="#5b9bd5" font-family="Arial, sans-serif" font-size="12">Yin-Yang &#183; &#20803;&#21407;&#21017; &#183; &#31532;&#19971;&#31456;</text>
+
+  <line x1="355" y1="86" x2="117" y2="138" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+  <line x1="385" y1="86" x2="274" y2="138" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+  <line x1="430" y1="86" x2="430" y2="138" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+  <line x1="475" y1="86" x2="588" y2="138" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+  <line x1="505" y1="86" x2="744" y2="138" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+
+  <rect x="44" y="142" width="145" height="70" rx="6" fill="#2d5a88"/>
+  <text x="117" y="168" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#39034;&#26102;</text>
+  <text x="117" y="188" text-anchor="middle" fill="#b8d4e8" font-family="Arial, sans-serif" font-size="11">Rhythm &#183; &#31532;&#20108;&#31456;</text>
+
+  <rect x="201" y="142" width="145" height="70" rx="6" fill="#2d5a88"/>
+  <text x="274" y="168" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#39135;&#20859;</text>
+  <text x="274" y="188" text-anchor="middle" fill="#b8d4e8" font-family="Arial, sans-serif" font-size="11">Nourishment &#183; &#31532;&#19977;&#31456;</text>
+
+  <rect x="358" y="142" width="145" height="70" rx="6" fill="#2d5a88"/>
+  <text x="430" y="168" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#35843;&#24773;&#24535;</text>
+  <text x="430" y="188" text-anchor="middle" fill="#b8d4e8" font-family="Arial, sans-serif" font-size="11">Emotion &#183; &#31532;&#22235;&#31456;</text>
+
+  <rect x="515" y="142" width="145" height="70" rx="6" fill="#2d5a88"/>
+  <text x="588" y="168" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#21160;&#24418;</text>
+  <text x="588" y="188" text-anchor="middle" fill="#b8d4e8" font-family="Arial, sans-serif" font-size="11">Movement &#183; &#31532;&#20116;&#31456;</text>
+
+  <rect x="672" y="142" width="145" height="70" rx="6" fill="#2d5a88"/>
+  <text x="744" y="168" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#27835;&#26410;&#30149;</text>
+  <text x="744" y="188" text-anchor="middle" fill="#b8d4e8" font-family="Arial, sans-serif" font-size="11">Prevention &#183; &#31532;&#20845;&#31456;</text>
+
+  <line x1="117" y1="212" x2="345" y2="282" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+  <line x1="430" y1="212" x2="430" y2="282" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+  <line x1="588" y1="212" x2="515" y2="282" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+
+  <path d="M 274,212 Q 160,330 345,398" stroke="#5b9bd5" stroke-width="1.5" stroke-dasharray="6 3" fill="none" marker-end="url(#arrowSolid)"/>
+  <path d="M 744,212 Q 830,330 515,398" stroke="#5b9bd5" stroke-width="1.5" stroke-dasharray="6 3" fill="none" marker-end="url(#arrowSolid)"/>
+
+  <rect x="280" y="286" width="300" height="55" rx="6" fill="#5b9bd5"/>
+  <text x="430" y="310" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#30561;&#30496;</text>
+  <text x="430" y="328" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="12">Sleep &#183; &#24674;&#22797;&#26426;&#21046; &#183; &#31532;&#20843;&#31456;</text>
+
+  <line x1="430" y1="341" x2="430" y2="394" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+
+  <rect x="280" y="398" width="300" height="55" rx="6" fill="#1a3a5c" stroke="#5b9bd5" stroke-width="2"/>
+  <text x="430" y="422" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#25972;&#21512;</text>
+  <text x="430" y="440" text-anchor="middle" fill="#5b9bd5" font-family="Arial, sans-serif" font-size="12">Integration &#183; &#31532;&#20061;&#31456;</text>
+</svg>

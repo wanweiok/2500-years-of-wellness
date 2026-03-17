@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 580" width="860">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5b9bd5"/>
+    </marker>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f0f0f0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="580" rx="8" fill="url(#bg)"/>
+  <text x="430" y="32" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="18" font-weight="bold">&#20869;&#32463;&#30561;&#30496;&#21327;&#35758;</text>
+
+  <rect x="230" y="50" width="400" height="72" rx="6" fill="#1a3a5c"/>
+  <text x="430" y="78" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#26202;&#38388;&#20934;&#22791; &#183; 19:00&#8211;21:00</text>
+  <text x="430" y="104" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">&#36731;&#26202;&#39184; &#183; &#27873;&#33050; &#183; &#25545;&#25353;&#28044;&#27849;&#31348;</text>
+
+  <line x1="430" y1="122" x2="430" y2="140" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="230" y="148" width="400" height="72" rx="6" fill="#2d5a88"/>
+  <text x="430" y="176" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#24863;&#23448;&#20943;&#36895; &#183; 21:00&#8211;22:00</text>
+  <text x="430" y="202" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">&#35843;&#26263;&#28783;&#20809; &#183; &#36828;&#31163;&#23631;&#24149; &#183; &#32531;&#24930;&#25289;&#20280;</text>
+
+  <line x1="430" y1="220" x2="430" y2="238" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="230" y="246" width="400" height="72" rx="6" fill="#5b9bd5"/>
+  <text x="430" y="274" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#21628;&#21560;&#23433;&#31070; &#183; 22:00&#8211;22:30</text>
+  <text x="430" y="300" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">&#33145;&#24335;&#21628;&#21560; &#183; &#25353;&#21387;&#31070;&#38376;&#31348; &#183; &#23433;&#30496;&#31348;</text>
+
+  <line x1="430" y1="318" x2="430" y2="336" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="230" y="344" width="400" height="72" rx="6" fill="#1a3a5c"/>
+  <text x="430" y="372" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#36827;&#20837;&#23376;&#26102; &#183; 23:00 &#21069;</text>
+  <text x="430" y="398" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">&#38381;&#30524; &#183; &#21491;&#20391;&#21351; &#183; &#25918;&#19979;&#19968;&#20999;</text>
+
+  <line x1="430" y1="416" x2="430" y2="434" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="230" y="442" width="400" height="72" rx="6" fill="#2d5a88"/>
+  <text x="430" y="470" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#26216;&#36215; &#183; &#36814;&#25509;&#38451;&#20809;</text>
+  <text x="430" y="496" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">&#33258;&#28982;&#20809;&#21796;&#37266; &#183; &#38543;&#23395;&#33410;&#35843;&#25972; &#183; &#20908;&#22825;&#24453;&#26085;&#20809;</text>
+</svg>

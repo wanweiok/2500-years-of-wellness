@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 440" width="860" height="440" font-family="Arial, sans-serif">
+  <rect x="290" y="16" width="280" height="56" rx="6" fill="#4a6741"/>
+  <text x="430" y="42" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">&#38452;&#38451;&#24179;&#34913;</text>
+  <text x="430" y="62" text-anchor="middle" fill="#cde6cd" font-size="14">&#31070;&#24535;&#23433;&#23450;</text>
+
+  <line x1="355" y1="72" x2="107" y2="136" stroke="#5b9bd5" stroke-width="2"/>
+  <line x1="395" y1="72" x2="322" y2="136" stroke="#5b9bd5" stroke-width="2"/>
+  <line x1="465" y1="72" x2="537" y2="136" stroke="#5b9bd5" stroke-width="2"/>
+  <line x1="505" y1="72" x2="752" y2="136" stroke="#5b9bd5" stroke-width="2"/>
+
+  <rect x="15" y="136" width="185" height="56" rx="6" fill="#c0392b"/>
+  <text x="107" y="160" text-anchor="middle" fill="#fff" font-size="15" font-weight="bold">&#38451;&#20559;</text>
+  <text x="107" y="180" text-anchor="middle" fill="#f5c6c6" font-size="12">&#38451;&#30427;&#21017;&#28909;</text>
+
+  <rect x="230" y="136" width="185" height="56" rx="6" fill="#e67e22"/>
+  <text x="322" y="160" text-anchor="middle" fill="#fff" font-size="15" font-weight="bold">&#38452;&#34394;</text>
+  <text x="322" y="180" text-anchor="middle" fill="#fde8d0" font-size="12">&#38452;&#34394;&#21017;&#28909;</text>
+
+  <rect x="445" y="136" width="185" height="56" rx="6" fill="#2d5a88"/>
+  <text x="537" y="160" text-anchor="middle" fill="#fff" font-size="15" font-weight="bold">&#38451;&#34394;</text>
+  <text x="537" y="180" text-anchor="middle" fill="#b8d4f0" font-size="12">&#38451;&#34394;&#21017;&#23506;</text>
+
+  <rect x="660" y="136" width="185" height="56" rx="6" fill="#7f8c8d"/>
+  <text x="752" y="160" text-anchor="middle" fill="#fff" font-size="15" font-weight="bold">&#38452;&#20559;</text>
+  <text x="752" y="180" text-anchor="middle" fill="#d5d8d8" font-size="12">&#38452;&#30427; / &#30208;&#28382;</text>
+
+  <line x1="107" y1="192" x2="107" y2="232" stroke="#c0392b" stroke-width="1.5"/>
+  <line x1="322" y1="192" x2="322" y2="232" stroke="#e67e22" stroke-width="1.5"/>
+  <line x1="537" y1="192" x2="537" y2="232" stroke="#2d5a88" stroke-width="1.5"/>
+  <line x1="752" y1="192" x2="752" y2="232" stroke="#7f8c8d" stroke-width="1.5"/>
+
+  <rect x="15" y="232" width="185" height="90" rx="6" fill="#fdf2f2" stroke="#c0392b" stroke-width="1"/>
+  <text x="107" y="256" text-anchor="middle" fill="#1a3a5c" font-size="14">&#28814;&#30151; &#183; &#22833;&#30496;</text>
+  <text x="107" y="276" text-anchor="middle" fill="#1a3a5c" font-size="14">&#39640;&#34880;&#21387; &#183; &#28966;&#36481;&#26131;&#24594;</text>
+  <text x="107" y="304" text-anchor="middle" fill="#888" font-size="12" font-style="italic">&#8220;&#27704;&#36828;&#22312;&#32447;&#8221;&#30340;&#29983;&#27963;</text>
+
+  <rect x="230" y="232" width="185" height="90" rx="6" fill="#fef6ee" stroke="#e67e22" stroke-width="1"/>
+  <text x="322" y="256" text-anchor="middle" fill="#1a3a5c" font-size="14">&#32791;&#31469; &#183; &#28966;&#34385;</text>
+  <text x="322" y="276" text-anchor="middle" fill="#1a3a5c" font-size="14">&#30423;&#27735; &#183; &#28040;&#30246;</text>
+  <text x="322" y="304" text-anchor="middle" fill="#888" font-size="12" font-style="italic">&#36807;&#24230;&#28040;&#32791;&#30340;&#20195;&#20215;</text>
+
+  <rect x="445" y="232" width="185" height="90" rx="6" fill="#eef4fb" stroke="#2d5a88" stroke-width="1"/>
+  <text x="537" y="256" text-anchor="middle" fill="#1a3a5c" font-size="14">&#20047;&#21147; &#183; &#25163;&#33050;&#20912;&#20937;</text>
+  <text x="537" y="276" text-anchor="middle" fill="#1a3a5c" font-size="14">&#20195;&#35874;&#36831;&#32531; &#183; &#25233;&#37057;</text>
+  <text x="537" y="304" text-anchor="middle" fill="#888" font-size="12" font-style="italic">&#33883;&#20248;+&#22806;&#21334;&#30340;&#24490;&#29615;</text>
+
+  <rect x="660" y="232" width="185" height="90" rx="6" fill="#f2f3f3" stroke="#7f8c8d" stroke-width="1"/>
+  <text x="752" y="256" text-anchor="middle" fill="#1a3a5c" font-size="14">&#27700;&#32959; &#183; &#33041;&#38654;</text>
+  <text x="752" y="276" text-anchor="middle" fill="#1a3a5c" font-size="14">&#20851;&#33410;&#20725;&#30828; &#183; &#27668;&#28382;</text>
+  <text x="752" y="304" text-anchor="middle" fill="#888" font-size="12" font-style="italic">&#36523;&#24515;&#20465;&#20923;</text>
+
+  <rect x="180" y="360" width="500" height="56" rx="6" fill="none" stroke="#5b9bd5" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="430" y="384" text-anchor="middle" fill="#1a3a5c" font-size="15" font-weight="bold">&#29616;&#20195;&#20154;&#26368;&#24120;&#35265;&#32452;&#21512;&#65306;&#38451;&#20559; + &#38452;&#34394;</text>
+  <text x="430" y="404" text-anchor="middle" fill="#666" font-size="13">&#30333;&#22825;&#36807;&#24230;&#20852;&#22859;&#65292;&#22812;&#38388;&#26080;&#27861;&#24674;&#22797;</text>
+</svg>

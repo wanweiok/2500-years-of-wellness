@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 460" width="860" height="460">
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2d5a88"/>
+    </marker>
+  </defs>
+
+  <rect width="860" height="460" fill="#ffffff" rx="8" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="430" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1a3a5c">&#19971;&#24773; &#8594; &#20116;&#33039; &#65306;&#27668;&#26426;&#22270;</text>
+
+  <!-- Emotions (left) -->
+  <rect x="30" y="55" width="200" height="44" rx="6" fill="#5b9bd5"/>
+  <text x="130" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">&#24594; Anger</text>
+
+  <rect x="30" y="113" width="200" height="44" rx="6" fill="#5b9bd5"/>
+  <text x="130" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">&#21916; Joy</text>
+
+  <rect x="30" y="171" width="200" height="44" rx="6" fill="#5b9bd5"/>
+  <text x="130" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">&#24778; Shock</text>
+
+  <rect x="30" y="229" width="200" height="44" rx="6" fill="#5b9bd5"/>
+  <text x="130" y="256" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">&#24605; Worry</text>
+
+  <rect x="30" y="287" width="200" height="44" rx="6" fill="#5b9bd5"/>
+  <text x="130" y="314" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">&#24754; Grief</text>
+
+  <rect x="30" y="345" width="200" height="44" rx="6" fill="#5b9bd5"/>
+  <text x="130" y="372" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">&#24551; Melancholy</text>
+
+  <rect x="30" y="403" width="200" height="44" rx="6" fill="#5b9bd5"/>
+  <text x="130" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">&#24656; Fear</text>
+
+  <!-- Organs (right) -->
+  <rect x="630" y="55" width="200" height="44" rx="6" fill="#1a3a5c"/>
+  <text x="730" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">&#32925; Liver</text>
+
+  <rect x="630" y="142" width="200" height="44" rx="6" fill="#1a3a5c"/>
+  <text x="730" y="169" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">&#24515; Heart</text>
+
+  <rect x="630" y="243" width="200" height="44" rx="6" fill="#1a3a5c"/>
+  <text x="730" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">&#33086; Spleen</text>
+
+  <rect x="630" y="345" width="200" height="44" rx="6" fill="#1a3a5c"/>
+  <text x="730" y="372" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">&#32954; Lung</text>
+
+  <rect x="630" y="403" width="200" height="44" rx="6" fill="#1a3a5c"/>
+  <text x="730" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="bold">&#32958; Kidney</text>
+
+  <!-- Arrows with qi labels -->
+  <line x1="230" y1="77" x2="628" y2="77" stroke="#2d5a88" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <rect x="390" y="63" width="70" height="24" rx="4" fill="#f0f0f0"/>
+  <text x="425" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a3a5c">&#27668;&#19978;</text>
+
+  <line x1="230" y1="135" x2="628" y2="158" stroke="#2d5a88" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <rect x="390" y="130" width="70" height="24" rx="4" fill="#f0f0f0"/>
+  <text x="425" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a3a5c">&#27668;&#32531;</text>
+
+  <line x1="230" y1="193" x2="628" y2="170" stroke="#2d5a88" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <rect x="390" y="172" width="70" height="24" rx="4" fill="#f0f0f0"/>
+  <text x="425" y="189" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a3a5c">&#27668;&#20081;</text>
+
+  <line x1="230" y1="251" x2="628" y2="259" stroke="#2d5a88" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <rect x="390" y="241" width="70" height="24" rx="4" fill="#f0f0f0"/>
+  <text x="425" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a3a5c">&#27668;&#32467;</text>
+
+  <line x1="230" y1="309" x2="628" y2="271" stroke="#2d5a88" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+  <line x1="230" y1="367" x2="628" y2="367" stroke="#2d5a88" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <rect x="390" y="353" width="70" height="24" rx="4" fill="#f0f0f0"/>
+  <text x="425" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a3a5c">&#27668;&#28040;</text>
+
+  <line x1="230" y1="425" x2="628" y2="425" stroke="#2d5a88" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <rect x="390" y="411" width="70" height="24" rx="4" fill="#f0f0f0"/>
+  <text x="425" y="428" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1a3a5c">&#27668;&#19979;</text>
+</svg>

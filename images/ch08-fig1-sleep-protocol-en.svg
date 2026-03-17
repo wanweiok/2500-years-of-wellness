@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 580" width="860">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5b9bd5"/>
+    </marker>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f0f0f0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="580" rx="8" fill="url(#bg)"/>
+  <text x="430" y="32" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="18" font-weight="bold">The Neijing Sleep Protocol</text>
+
+  <!-- Step 1: 7:00-9:00 PM -->
+  <rect x="230" y="50" width="400" height="72" rx="6" fill="#1a3a5c"/>
+  <text x="430" y="78" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">7:00 &#x2013; 9:00 PM &#xb7; Evening Prep</text>
+  <text x="430" y="104" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">Light dinner &#xb7; Foot soak &#xb7; Yongquan point</text>
+
+  <!-- Arrow 1-2 -->
+  <line x1="430" y1="122" x2="430" y2="140" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 2: 9:00-10:00 PM -->
+  <rect x="230" y="148" width="400" height="72" rx="6" fill="#2d5a88"/>
+  <text x="430" y="176" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">9:00 &#x2013; 10:00 PM &#xb7; Sensory Deceleration</text>
+  <text x="430" y="202" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">Dim lights &#xb7; No screens &#xb7; Gentle stretching</text>
+
+  <!-- Arrow 2-3 -->
+  <line x1="430" y1="220" x2="430" y2="238" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 3: 10:00-10:30 PM -->
+  <rect x="230" y="246" width="400" height="72" rx="6" fill="#5b9bd5"/>
+  <text x="430" y="274" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">10:00 &#x2013; 10:30 PM &#xb7; Breath Settling</text>
+  <text x="430" y="300" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">Abdominal breathing &#xb7; Shenmen &#xb7; Anmian</text>
+
+  <!-- Arrow 3-4 -->
+  <line x1="430" y1="318" x2="430" y2="336" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 4: Before 11:00 PM -->
+  <rect x="230" y="344" width="400" height="72" rx="6" fill="#1a3a5c"/>
+  <text x="430" y="372" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Before 11:00 PM &#xb7; Enter Zi Shi</text>
+  <text x="430" y="398" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">Eyes closed &#xb7; Right side &#xb7; Release everything</text>
+
+  <!-- Arrow 4-5 -->
+  <line x1="430" y1="416" x2="430" y2="434" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 5: Morning -->
+  <rect x="230" y="442" width="400" height="72" rx="6" fill="#2d5a88"/>
+  <text x="430" y="470" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Morning &#xb7; Greet the Light</text>
+  <text x="430" y="496" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">Natural light &#xb7; Seasonal rhythm &#xb7; Winter: wait for sun</text>
+</svg>

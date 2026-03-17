@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 470" width="860" height="470">
+  <defs>
+    <marker id="arrowSolid" viewBox="0 0 10 6" refX="9" refY="3" markerWidth="8" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,3 L0,6 Z" fill="#5b9bd5"/>
+    </marker>
+    <marker id="arrowDash" viewBox="0 0 10 6" refX="9" refY="3" markerWidth="8" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,3 L0,6 Z" fill="#5b9bd5" opacity="0.6"/>
+    </marker>
+    <filter id="shadow" x="-2%" y="-2%" width="104%" height="108%">
+      <feDropShadow dx="1" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="470" fill="#f0f0f0" rx="10"/>
+
+  <!-- Title bar -->
+  <text x="430" y="16" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11" opacity="0.5">Figure 1-1: Five Pillars of Neijing Wellness</text>
+
+  <!-- === Yin-Yang box (top) === -->
+  <rect x="305" y="28" width="250" height="58" rx="6" fill="#1a3a5c" filter="url(#shadow)"/>
+  <text x="430" y="52" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Yin-Yang</text>
+  <text x="430" y="72" text-anchor="middle" fill="#5b9bd5" font-family="Arial, sans-serif" font-size="12">Meta-Principle · Chapter 7</text>
+
+  <!-- === Arrows: Yin-Yang ’ Five Pillars === -->
+  <line x1="355" y1="86" x2="117" y2="138" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+  <line x1="385" y1="86" x2="274" y2="138" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+  <line x1="430" y1="86" x2="430" y2="138" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+  <line x1="475" y1="86" x2="588" y2="138" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+  <line x1="505" y1="86" x2="744" y2="138" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+
+  <!-- === Five Pillar boxes === -->
+  <!-- P1: Rhythm -->
+  <rect x="44" y="142" width="145" height="70" rx="6" fill="#2d5a88" filter="url(#shadow)"/>
+  <text x="117" y="168" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Rhythm</text>
+  <text x="117" y="188" text-anchor="middle" fill="#b8d4e8" font-family="Arial, sans-serif" font-size="11">Chapter 2</text>
+
+  <!-- P2: Nourishment -->
+  <rect x="201" y="142" width="145" height="70" rx="6" fill="#2d5a88" filter="url(#shadow)"/>
+  <text x="274" y="168" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Nourishment</text>
+  <text x="274" y="188" text-anchor="middle" fill="#b8d4e8" font-family="Arial, sans-serif" font-size="11">Chapter 3</text>
+
+  <!-- P3: Emotional Balance -->
+  <rect x="358" y="142" width="145" height="70" rx="6" fill="#2d5a88" filter="url(#shadow)"/>
+  <text x="430" y="160" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Emotional</text>
+  <text x="430" y="177" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Balance</text>
+  <text x="430" y="197" text-anchor="middle" fill="#b8d4e8" font-family="Arial, sans-serif" font-size="11">Chapter 4</text>
+
+  <!-- P4: Movement -->
+  <rect x="515" y="142" width="145" height="70" rx="6" fill="#2d5a88" filter="url(#shadow)"/>
+  <text x="588" y="168" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Movement</text>
+  <text x="588" y="188" text-anchor="middle" fill="#b8d4e8" font-family="Arial, sans-serif" font-size="11">Chapter 5</text>
+
+  <!-- P5: Prevention -->
+  <rect x="672" y="142" width="145" height="70" rx="6" fill="#2d5a88" filter="url(#shadow)"/>
+  <text x="744" y="168" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Prevention</text>
+  <text x="744" y="188" text-anchor="middle" fill="#b8d4e8" font-family="Arial, sans-serif" font-size="11">Chapter 6</text>
+
+  <!-- === Arrows: P1, P3, P4 ’ Sleep (solid) === -->
+  <line x1="117" y1="212" x2="345" y2="282" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+  <line x1="430" y1="212" x2="430" y2="282" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+  <line x1="588" y1="212" x2="515" y2="282" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+
+  <!-- === Arrows: P2, P5 ’ Integration (dashed, bypassing Sleep) === -->
+  <path d="M 274,212 Q 160,330 345,398" stroke="#5b9bd5" stroke-width="1.5" stroke-dasharray="6 3" fill="none" marker-end="url(#arrowDash)"/>
+  <path d="M 744,212 Q 830,330 515,398" stroke="#5b9bd5" stroke-width="1.5" stroke-dasharray="6 3" fill="none" marker-end="url(#arrowDash)"/>
+
+  <!-- === Sleep box === -->
+  <rect x="280" y="286" width="300" height="55" rx="6" fill="#5b9bd5" filter="url(#shadow)"/>
+  <text x="430" y="310" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Sleep</text>
+  <text x="430" y="328" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="12">Recovery Engine · Chapter 8</text>
+
+  <!-- === Arrow: Sleep ’ Integration === -->
+  <line x1="430" y1="341" x2="430" y2="394" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowSolid)"/>
+
+  <!-- === Integration box (bottom) === -->
+  <rect x="280" y="398" width="300" height="55" rx="6" fill="#1a3a5c" stroke="#5b9bd5" stroke-width="2" filter="url(#shadow)"/>
+  <text x="430" y="422" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Integration</text>
+  <text x="430" y="440" text-anchor="middle" fill="#5b9bd5" font-family="Arial, sans-serif" font-size="12">The Living System · Chapter 9</text>
+</svg>

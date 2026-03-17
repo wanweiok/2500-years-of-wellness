@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 600" width="860">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5b9bd5"/>
+    </marker>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f0f0f0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="600" rx="8" fill="url(#bg)"/>
+  <text x="430" y="28" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="18" font-weight="bold">&#20869;&#32463;&#36816;&#21160;&#26041;&#26696;&#65306;&#20840;&#22825;&#27969;&#21160;</text>
+
+  <rect x="230" y="46" width="400" height="68" rx="6" fill="#1a3a5c"/>
+  <text x="430" y="71" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#26216;&#36215; 5&#8211;7 &#26102;</text>
+  <text x="430" y="99" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">&#23548;&#24341;&#20280;&#23637; + &#31449;&#26729;&#21628;&#21560; &#183; 10 &#20998;&#38047;</text>
+
+  <line x1="430" y1="114" x2="430" y2="132" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="230" y="140" width="400" height="68" rx="6" fill="#2d5a88"/>
+  <text x="430" y="165" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#19978;&#21320;&#24494;&#21160;</text>
+  <text x="430" y="193" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">&#25143;&#22806;&#25955;&#27493;&#26194;&#22826;&#38451; &#183; 15&#8211;20 &#20998;&#38047;</text>
+
+  <line x1="430" y1="208" x2="430" y2="226" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="230" y="234" width="400" height="68" rx="6" fill="#5b9bd5"/>
+  <text x="430" y="259" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#27599; 50 &#20998;&#38047;</text>
+  <text x="430" y="287" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">&#36816;&#21160;&#38646;&#39135;&#65306;&#36215;&#31435; + &#25289;&#20280; + 5 &#27425;&#28145;&#21628;&#21560; &#183; 2 &#20998;&#38047;</text>
+
+  <line x1="430" y1="302" x2="430" y2="320" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="230" y="328" width="400" height="68" rx="6" fill="#1a3a5c"/>
+  <text x="430" y="353" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#19979;&#21320; 3&#8211;5 &#26102;&#65288;&#33152;&#33009;&#32463;&#26106;&#26102;&#65289;</text>
+  <text x="430" y="381" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">&#26377;&#27687;&#36816;&#21160;&#39640;&#23792; &#183; &#20013;&#31561;&#24378;&#24230; &#183; 30 &#20998;&#38047;</text>
+
+  <line x1="430" y1="396" x2="430" y2="414" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="230" y="422" width="400" height="68" rx="6" fill="#2d5a88"/>
+  <text x="430" y="447" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#26202;&#38388;&#25910;&#21151;</text>
+  <text x="430" y="475" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">&#31348;&#20301;&#25353;&#21387;&#65306;&#36275;&#19977;&#37324; &#183; &#28044;&#27849; &#183; &#21512;&#35895; &#183; 5 &#20998;&#38047;</text>
+
+  <line x1="430" y1="490" x2="430" y2="508" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="230" y="516" width="400" height="68" rx="6" fill="#5b9bd5"/>
+  <text x="430" y="541" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">&#30561;&#21069;&#23433;&#31070;</text>
+  <text x="430" y="569" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">&#32531;&#24930;&#25289;&#20280;&#65292;&#36991;&#20813;&#21095;&#28872;&#36816;&#21160; &#183; 10 &#20998;&#38047;</text>
+</svg>
