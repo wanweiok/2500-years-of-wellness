@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 440" width="860" height="440" font-family="Arial, sans-serif">
+  <rect x="290" y="16" width="280" height="56" rx="6" fill="#4a6741"/>
+  <text x="430" y="42" text-anchor="middle" fill="#fff" font-size="16" font-weight="bold">Yin-Yang Balance</text>
+  <text x="430" y="62" text-anchor="middle" fill="#cde6cd" font-size="13">Spirit in Order</text>
+
+  <line x1="355" y1="72" x2="107" y2="136" stroke="#5b9bd5" stroke-width="2"/>
+  <line x1="395" y1="72" x2="322" y2="136" stroke="#5b9bd5" stroke-width="2"/>
+  <line x1="465" y1="72" x2="537" y2="136" stroke="#5b9bd5" stroke-width="2"/>
+  <line x1="505" y1="72" x2="752" y2="136" stroke="#5b9bd5" stroke-width="2"/>
+
+  <rect x="15" y="136" width="185" height="56" rx="6" fill="#c0392b"/>
+  <text x="107" y="160" text-anchor="middle" fill="#fff" font-size="15" font-weight="bold">Yang Excess</text>
+  <text x="107" y="180" text-anchor="middle" fill="#f5c6c6" font-size="12">Excess yang &#x2192; heat</text>
+
+  <rect x="230" y="136" width="185" height="56" rx="6" fill="#e67e22"/>
+  <text x="322" y="160" text-anchor="middle" fill="#fff" font-size="15" font-weight="bold">Yin Deficiency</text>
+  <text x="322" y="180" text-anchor="middle" fill="#fde8d0" font-size="12">Yin depletion &#x2192; heat</text>
+
+  <rect x="445" y="136" width="185" height="56" rx="6" fill="#2d5a88"/>
+  <text x="537" y="160" text-anchor="middle" fill="#fff" font-size="15" font-weight="bold">Yang Deficiency</text>
+  <text x="537" y="180" text-anchor="middle" fill="#b8d4f0" font-size="12">Yang depletion &#x2192; cold</text>
+
+  <rect x="660" y="136" width="185" height="56" rx="6" fill="#7f8c8d"/>
+  <text x="752" y="160" text-anchor="middle" fill="#fff" font-size="15" font-weight="bold">Yin Excess</text>
+  <text x="752" y="180" text-anchor="middle" fill="#d5d8d8" font-size="12">Yin excess / Stasis</text>
+
+  <line x1="107" y1="192" x2="107" y2="232" stroke="#c0392b" stroke-width="1.5"/>
+  <line x1="322" y1="192" x2="322" y2="232" stroke="#e67e22" stroke-width="1.5"/>
+  <line x1="537" y1="192" x2="537" y2="232" stroke="#2d5a88" stroke-width="1.5"/>
+  <line x1="752" y1="192" x2="752" y2="232" stroke="#7f8c8d" stroke-width="1.5"/>
+
+  <rect x="15" y="232" width="185" height="90" rx="6" fill="#fdf2f2" stroke="#c0392b" stroke-width="1"/>
+  <text x="107" y="256" text-anchor="middle" fill="#1a3a5c" font-size="14">Inflammation &#xB7; Insomnia</text>
+  <text x="107" y="276" text-anchor="middle" fill="#1a3a5c" font-size="14">Hypertension &#xB7; Irritability</text>
+  <text x="107" y="304" text-anchor="middle" fill="#888" font-size="12" font-style="italic">The always-on life</text>
+
+  <rect x="230" y="232" width="185" height="90" rx="6" fill="#fef6ee" stroke="#e67e22" stroke-width="1"/>
+  <text x="322" y="256" text-anchor="middle" fill="#1a3a5c" font-size="14">Burnout &#xB7; Anxiety</text>
+  <text x="322" y="276" text-anchor="middle" fill="#1a3a5c" font-size="14">Night sweats &#xB7; Weight loss</text>
+  <text x="322" y="304" text-anchor="middle" fill="#888" font-size="12" font-style="italic">The cost of over-expenditure</text>
+
+  <rect x="445" y="232" width="185" height="90" rx="6" fill="#eef4fb" stroke="#2d5a88" stroke-width="1"/>
+  <text x="537" y="256" text-anchor="middle" fill="#1a3a5c" font-size="14">Low energy &#xB7; Cold limbs</text>
+  <text x="537" y="276" text-anchor="middle" fill="#1a3a5c" font-size="14">Slow metabolism &#xB7; Depression</text>
+  <text x="537" y="304" text-anchor="middle" fill="#888" font-size="12" font-style="italic">The couch-and-delivery loop</text>
+
+  <rect x="660" y="232" width="185" height="90" rx="6" fill="#f2f3f3" stroke="#7f8c8d" stroke-width="1"/>
+  <text x="752" y="256" text-anchor="middle" fill="#1a3a5c" font-size="14">Edema &#xB7; Brain fog</text>
+  <text x="752" y="276" text-anchor="middle" fill="#1a3a5c" font-size="14">Stiff joints &#xB7; Stagnation</text>
+  <text x="752" y="304" text-anchor="middle" fill="#888" font-size="12" font-style="italic">Body and mind frozen</text>
+
+  <rect x="180" y="360" width="500" height="56" rx="6" fill="none" stroke="#5b9bd5" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="430" y="384" text-anchor="middle" fill="#1a3a5c" font-size="15" font-weight="bold">Most common modern combo: Yang Excess + Yin Deficiency</text>
+  <text x="430" y="404" text-anchor="middle" fill="#666" font-size="13">Overstimulated by day, unable to recover by night</text>
+</svg>

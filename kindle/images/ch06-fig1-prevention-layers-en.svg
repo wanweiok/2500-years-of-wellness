@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 440" width="860" height="440">
+  <defs>
+    <marker id="arrowDown" viewBox="0 0 10 6" refX="5" refY="6" markerWidth="8" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,0 L5,6 Z" fill="#5b9bd5"/>
+    </marker>
+    <filter id="shadow" x="-2%" y="-2%" width="104%" height="108%">
+      <feDropShadow dx="1" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="860" height="440" fill="#f0f0f0" rx="10"/>
+
+  <text x="430" y="20" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11" opacity="0.5">Fig 6-1 The Four Layers of Preventive Care</text>
+
+  <!-- Layer 1: Prevent Before Illness -->
+  <rect x="205" y="38" width="450" height="72" rx="6" fill="#1a3a5c" filter="url(#shadow)"/>
+  <text x="430" y="62" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Layer 1 &#xB7; Prevent Before Illness</text>
+  <text x="430" y="82" text-anchor="middle" fill="#5b9bd5" font-family="Arial, sans-serif" font-size="12">Wei Bing Xian Fang</text>
+  <text x="430" y="100" text-anchor="middle" fill="#b8d4e8" font-family="Arial, sans-serif" font-size="11">Cultivate lifestyle, strengthen Qi &#xB7; &#x201C;When Qi is strong, pathogens cannot invade&#x201D;</text>
+
+  <!-- Arrow 1-2 -->
+  <line x1="430" y1="110" x2="430" y2="130" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowDown)"/>
+
+  <!-- Layer 2: Prevent Progression -->
+  <rect x="205" y="138" width="450" height="72" rx="6" fill="#2d5a88" filter="url(#shadow)"/>
+  <text x="430" y="162" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Layer 2 &#xB7; Prevent Progression</text>
+  <text x="430" y="182" text-anchor="middle" fill="#a8cce8" font-family="Arial, sans-serif" font-size="12">Ji Bing Fang Bian</text>
+  <text x="430" y="200" text-anchor="middle" fill="#d0e4f0" font-family="Arial, sans-serif" font-size="11">Detect early signals, block escalation &#xB7; Sub-health intervention window</text>
+
+  <!-- Arrow 2-3 -->
+  <line x1="430" y1="210" x2="430" y2="230" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowDown)"/>
+
+  <!-- Layer 3: Prevent Recurrence -->
+  <rect x="205" y="238" width="450" height="72" rx="6" fill="#5b9bd5" filter="url(#shadow)"/>
+  <text x="430" y="262" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Layer 3 &#xB7; Prevent Recurrence</text>
+  <text x="430" y="282" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="12">Yu Hou Fang Fu</text>
+  <text x="430" y="300" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11">Extra care during recovery, prevent old illness from returning</text>
+
+  <!-- Arrow 3-4 -->
+  <line x1="430" y1="310" x2="430" y2="330" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowDown)"/>
+
+  <!-- Layer 4: Adapt to Circumstances -->
+  <rect x="205" y="338" width="450" height="72" rx="6" fill="#7ab8e0" filter="url(#shadow)"/>
+  <text x="430" y="362" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Layer 4 &#xB7; Adapt to Circumstances</text>
+  <text x="430" y="382" text-anchor="middle" fill="#2d5a88" font-family="Arial, sans-serif" font-size="12">Yin Shi Zhi Yi</text>
+  <text x="430" y="400" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11">Dynamically adjust by season, age, and constitution</text>
+
+  <!-- Side annotations -->
+  <text x="170" y="78" text-anchor="end" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Superior &#x2192;</text>
+  <text x="170" y="178" text-anchor="end" fill="#2d5a88" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Average &#x2192;</text>
+  <text x="170" y="278" text-anchor="end" fill="#5b9bd5" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Post-care &#x2192;</text>
+
+  <!-- Right side: life phase -->
+  <text x="690" y="78" text-anchor="start" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11">&#x2190; Healthy phase</text>
+  <text x="690" y="178" text-anchor="start" fill="#2d5a88" font-family="Arial, sans-serif" font-size="11">&#x2190; Sub-health phase</text>
+  <text x="690" y="278" text-anchor="start" fill="#5b9bd5" font-family="Arial, sans-serif" font-size="11">&#x2190; Recovery phase</text>
+  <text x="690" y="378" text-anchor="start" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="11">&#x2190; Full lifecycle</text>
+
+  <!-- Footer -->
+  <text x="430" y="432" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="10" opacity="0.4">Source: Based on Huangdi Neijing Su Wen preventive care framework</text>
+</svg>
