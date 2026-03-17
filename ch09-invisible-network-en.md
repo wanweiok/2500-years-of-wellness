@@ -1,4 +1,4 @@
-# Chapter 10 · The Invisible Network — Meridians, Fascia, and Why Your Body Is Smarter Than You Think
+# Chapter 9 · The Invisible Network — Meridians, Fascia, and Why Your Body Is Smarter Than You Think
 
 > 经脉者，所以能决死生，处百病，调虚实，不可不通。
 > *Jīng mài zhě, suǒ yǐ néng jué sǐ shēng, chǔ bǎi bìng, tiáo xū shí, bù kě bù tōng.*
@@ -7,7 +7,7 @@
 >
 > — *Ling Shu*, Chapter 10 (经脉篇)
 
-## 10.1 An Anatomist's Surprise
+## 9.1 An Anatomist's Surprise
 
 In 2002, Helene Langevin and Jason Yandow at the University of Vermont published a paper in *The Anatomical Record* that made anatomists sit up and acupuncturists say "told you so."
 
@@ -21,7 +21,7 @@ Langevin's team proposed a different conclusion: the anatomists had been looking
 
 ---
 
-## 10.2 What the Neijing Actually Says About Meridians
+## 9.2 What the Neijing Actually Says About Meridians
 
 The meridian system (经络, jīng luò) is the Neijing's most elaborate anatomical model. *Jīng* (经) means warp threads — the vertical lines on a loom. *Luò* (络) means net threads — the smaller connecting fibers. Together: a warp-and-weft network covering the entire body.
 
@@ -58,7 +58,7 @@ The clinical specificity of the *Ling Shu* descriptions is worth pausing on. Cha
 
 ---
 
-## 10.3 The Fascia Revolution
+## 9.3 The Fascia Revolution
 
 For most of the twentieth century, fascia was the stuff anatomists cut through to reach the "real" structures underneath — muscles, bones, organs. In dissection labs, students were taught to strip it away. It was packing material. Nobody studied packing material.
 
@@ -88,7 +88,7 @@ A parallel line of evidence emerged from research on adenosine. In 2010, Nanna G
 
 ---
 
-## 10.4 Bioelectricity and the Body Electric
+## 9.4 Bioelectricity and the Body Electric
 
 Fascia transmits mechanical signals. But the body runs on electricity too. Every heartbeat is an electrical event. Every nerve impulse is an ion cascade. Every wound healing process involves measurable electrical currents. Could the meridian system also have an electrical dimension?
 
@@ -114,11 +114,11 @@ The scientific community remains divided. The structures are difficult to isolat
 
 ---
 
-![The Meridian–Fascia Bridge: Ancient Meets Modern](images/ch10-fig1-meridian-fascia-bridge-en.svg)
+![The Meridian–Fascia Bridge: Ancient Meets Modern](images/ch09-fig1-meridian-fascia-bridge-en.svg)
 
 ---
 
-## 10.5 Acupuncture: What the Evidence Actually Says
+## 9.5 Acupuncture: What the Evidence Actually Says
 
 Ancient theory is one thing. Clinical results are another. Acupuncture is one of the most studied interventions in complementary medicine — and one of the most debated. After thousands of trials and dozens of systematic reviews, where does the evidence stand?
 
@@ -164,7 +164,7 @@ The pattern: acupuncture's strongest evidence is in pain-related conditions. Thi
 
 ---
 
-## 10.6 Self-Care: Meridian Stretching and Myofascial Release
+## 9.6 Self-Care: Meridian Stretching and Myofascial Release
 
 You do not need acupuncture needles to engage your fascial network. The Neijing's original self-care method — 导引 (dǎo yǐn), literally "guiding and pulling" — was a system of stretches, breathing exercises, and gentle movements designed to keep the meridian pathways open. The Mawangdui Daoyin Tu, a silk painting excavated from a tomb sealed in 168 BC, depicts 44 figures in various stretching postures. Daoyin predates acupuncture as a health practice. It is the ancestor of Tai Chi, Qigong, and yoga-like practices across East Asia.
 
@@ -217,7 +217,7 @@ Schleip recommends training fascia two to three times per week, with at least 48
 
 ---
 
-## 10.7 Reflection Moment: Meridian Body Scan
+## 9.7 Reflection Moment: Meridian Body Scan
 
 This exercise takes five minutes. Find a quiet place where you can sit or lie down undisturbed.
 
@@ -237,7 +237,7 @@ Arrive at the neck and head. The Gallbladder meridian winds around the sides of 
 
 Now take one more breath and ask yourself: where in my body did I feel the most aliveness? Where did I feel the most stagnation? Those two locations are your personal starting points.
 
-Write them down. Refer back to Section 10.6 and choose one stretch or self-acupressure point that corresponds to the area of greatest stagnation. Practice it daily for the next three weeks.
+Write them down. Refer back to Section 9.6 and choose one stretch or self-acupressure point that corresponds to the area of greatest stagnation. Practice it daily for the next three weeks.
 
 ---
 
@@ -245,7 +245,7 @@ Write them down. Refer back to Section 10.6 and choose one stretch or self-acupr
 
 - ⚡ Try the Meridian Body Scan above. It takes five minutes. Identify one area of stagnation and one area of ease.
 - ⚡ Apply sustained pressure to one acupressure point — Hegu (LI-4), Neiguan (PC-6), or Zusanli (ST-36) — for 60 seconds. Note what you feel.
-- 🔄 This week, add one fascial stretch from Section 10.6 to your morning or evening routine. Hold for 60–90 seconds. Slow and sustained, not fast and bouncy.
+- 🔄 This week, add one fascial stretch from Section 9.6 to your morning or evening routine. Hold for 60–90 seconds. Slow and sustained, not fast and bouncy.
 
 ---
 
@@ -275,7 +275,7 @@ Compare Day 1 to Day 21. If morning stiffness drops by 2 or more points and end-
 
 ---
 
-## 10.8 Summary & Bridge to the Epilogue
+## 9.8 Summary & Bridge to the Epilogue
 
 This chapter pursued a single question: when the Neijing describes an invisible network running through the body — connecting organs, regulating function, determining health and disease — is there anything physically *there*?
 
@@ -297,7 +297,7 @@ Meridians connect the body's distal and proximal ends. Fascia connects the super
 
 The *Neijing* says "Heaven's qi connects to the Lung." The Lung is the body's most direct interface with the outside world. You can go days without food, a day without water, but not three minutes without breath. Meridians can be unblocked through needles and stretches. Breath is the channel you can regulate anytime, anywhere, with no tools at all.
 
-The next chapter returns from the body's most intricate network to its most basic daily actions: breathing, walking, sitting, lying down, standing up. These are things you do tens of thousands of times each day. Every one of them is an opportunity for wellness cultivation — if you know how.
+Chapter 10 returns from the body's most intricate network to its most basic daily actions: breathing, walking, sitting, lying down, standing up. These are things you do tens of thousands of times each day. Every one of them is an opportunity for wellness cultivation — if you know how.
 
 ---
 

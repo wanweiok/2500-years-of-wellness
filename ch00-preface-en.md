@@ -40,7 +40,7 @@ This book doesn't claim the ancients were always right. Every *Neijing* principl
 
 **Every chapter hands you something you can do today.**
 
-Each chapter ends with two practical tools: a "Today's Action" checklist (three things you can do immediately) and a "21-Day Micro-Experiment" that lets you test one ancient principle at minimal cost. Chapter 9 goes further — a complete 90-day wellness reset integrating all nine dimensions into a single executable timeline.
+Each chapter ends with two practical tools: a "Today's Action" checklist (three things you can do immediately) and a "21-Day Micro-Experiment" that lets you test one ancient principle at minimal cost.
 
 **Intellectual respect for the source, no mystification.**
 
@@ -53,8 +53,8 @@ The *Neijing* is a serious medical treatise, not a fortune cookie. This book wil
 | Dimension | What You'll Walk Away With | Chapters |
 |-----------|--------------------------|----------|
 | **Knowledge** | Understand circadian rhythms, emotion-immunity pathways, food-microbiome interactions, and a preventive medicine framework that predates Hippocrates by two centuries | Ch 01–08 |
-| **Practices** | A personalizable morning routine, five-flavor dietary principles, gentle movement protocol, emotional regulation toolkit, and sleep optimization system | Ch 02–09 |
-| **Mindset Shift** | Move from "I see a doctor when I'm sick" to "I am the first responder for my own health"; stop chasing individual health trends and start building a personal wellness operating system | Ch 06–09 |
+| **Practices** | A personalizable morning routine, five-flavor dietary principles, gentle movement protocol, emotional regulation toolkit, and sleep optimization system | Ch 02–11 |
+| **Mindset Shift** | Move from "I see a doctor when I'm sick" to "I am the first responder for my own health"; stop chasing individual health trends and start building a personal wellness operating system | Ch 06–11 |
 
 Knowledge helps you understand why. Practices let you feel the change. The mindset shift frees you from dependence on any single health authority — including this book.
 
@@ -78,12 +78,11 @@ That's what the conversation between the Yellow Emperor and Qi Bo was about, twe
 | 06 | The Art of Not Getting Sick | "The superior doctor prevents disease" — preventive medicine's Eastern origin |
 | 07 | Balance, Not Perfection | Yin-Yang as a dynamic equilibrium strategy, not mysticism |
 | 08 | Sleep: The Great Healer | The *Neijing*'s sleep theory meets modern sleep neuroscience |
-| 09 | Your 90-Day Wellness Reset | Integrating all dimensions into one executable plan |
-| 10 | The Invisible Network | Meridians, fascia, and acupuncture — your body is smarter than you think |
-| 11 | Breath and Posture | Walking, sitting, lying, standing — the art of 20,000 daily breaths |
-| 12 | When AI Meets TCM | Using modern tools to activate ancient wisdom and ask AI the right health questions |
+| 09 | The Invisible Network | Meridians, fascia, and acupuncture — your body is smarter than you think |
+| 10 | Breath and Posture | Walking, sitting, lying, standing — the art of 20,000 daily breaths |
+| 11 | When AI Meets TCM | Using modern tools to activate ancient wisdom and ask AI the right health questions |
 
-The structure follows a clear logic: meet the *Neijing* (Ch 01), then unpack four life dimensions — time (Ch 02), diet (Ch 03), emotion (Ch 04), movement (Ch 05). These four converge into the master framework of preventive medicine (Ch 06), supported by two deeper systems: dynamic balance (Ch 07) and sleep as the body's repair mechanism (Ch 08). Ch 09 integrates everything into a 90-day executable plan. Ch 10 reveals the body's connection network (meridians and fascia). Ch 11 returns to the most fundamental daily actions (breathing and posture). Ch 12 looks forward, teaching you to use AI tools to turn the entire book's principles into a personalized wellness protocol.
+The structure follows a clear logic: meet the *Neijing* (Ch 01), then unpack four life dimensions — time (Ch 02), diet (Ch 03), emotion (Ch 04), movement (Ch 05). These four converge into the master framework of preventive medicine (Ch 06), supported by two deeper systems: dynamic balance (Ch 07) and sleep as the body's repair mechanism (Ch 08). Ch 09 reveals the body's connection network (meridians and fascia). Ch 10 returns to the most fundamental daily actions (breathing and posture). Ch 11 looks forward, teaching you to use AI tools to turn the entire book's principles into a personalized wellness protocol.
 
 Chapters 02 through 05 are parallel, not sequential. Reorder them based on your priorities. Ch 06, however, works best after you've read at least two of the four, since it synthesizes their themes into a unified preventive framework.
 
@@ -107,15 +106,15 @@ You don't have to read front to back. Pick the path that matches your goal.
 
 **Path A · Quick Start (3 chapters, ~2 hours)**
 
-Ch 01 → Ch 06 → Ch 09. Get the foundational framework, the core philosophy of preventive wellness, and the full 90-day plan. Dip into other chapters as questions arise during your reset. Act first, understand later.
+Ch 01 → Ch 06 → Ch 09. Get the foundational framework, the core philosophy of preventive wellness, and the body's connection network (meridians and fascia). Dip into other chapters as questions arise. Act first, understand later.
 
 **Path B · Science-Curious (4 chapters, ~3.5 hours)**
 
 Ch 01 → Ch 02 → Ch 04 → Ch 08. Covers three research frontiers: circadian biology (why you crash at 3 PM, and how to work with that rhythm instead of against it), psychoneuroimmunology (how emotions travel through specific biochemical pathways to alter immune function), and sleep neuroscience (how the brain's glymphatic cleaning system operates during deep sleep). You'll see where the *Neijing* and peer-reviewed research overlap — and where they part ways.
 
-**Path C · Full Journey (9 chapters, ~8 hours)**
+**Path C · Full Journey (11 chapters, ~8 hours)**
 
-Ch 01 → Ch 02 → Ch 03 → … → Ch 09. For readers building a complete health framework from scratch. Each chapter's practices layer on top of the previous ones, converging naturally into the integrated plan in Chapter 9.
+Ch 01 → Ch 02 → Ch 03 → … → Ch 11. For readers building a complete health framework from scratch. Each chapter's practices layer on top of the previous ones, gradually forming a complete wellness protocol.
 
 ### Skip Guide
 

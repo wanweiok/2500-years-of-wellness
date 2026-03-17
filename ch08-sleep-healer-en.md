@@ -220,7 +220,7 @@ Nedergaard's glymphatic system tells us the brain washes itself every night. Wal
 
 Do not steal its working hours.
 
-In the next chapter, we assemble all the pieces. **Chapter 9 delivers your complete 90-day wellness reset plan**, from Week 1 micro-adjustments to Week 12 deep integration, transforming twenty-five centuries of wisdom into action you can begin tomorrow.
+In the next chapter, we turn inward to the body's invisible network. **Chapter 9** maps the terrain of meridians and fascia — the unseen connective systems that run throughout your body. When Wei Qi travels through Yin at night, it moves along these pathways to repair the organs. Understanding this network helps you understand what your body is doing while you sleep.
 
 ---
 

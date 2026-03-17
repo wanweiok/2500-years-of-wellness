@@ -1,4 +1,4 @@
-# Chapter 12 · When AI Meets Traditional Chinese Medicine — Using Modern Tools to Activate Ancient Wisdom
+# Chapter 11 · When AI Meets Traditional Chinese Medicine — Using Modern Tools to Activate Ancient Wisdom
 
 > 善言天者，必有验于人。
 > *Shàn yán tiān zhě, bì yǒu yàn yú rén.*
@@ -7,9 +7,9 @@
 >
 > — *Su Wen*, Chapter 25 (宝命全形论)
 
-## 12.1 The World's Oldest Dialogue Gets a New Participant
+## 11.1 The World's Oldest Dialogue Gets a New Participant
 
-For eleven chapters, you have been the student. The Neijing has been the teacher. You learned to eat with the seasons, sleep before Zi Shi, move like water, breathe with intention, and guard your spirit within. The principles are clear. The science backs them up.
+For ten chapters, you have been the student. The Neijing has been the teacher. You learned to eat with the seasons, sleep before Zi Shi, move like water, breathe with intention, and guard your spirit within. The principles are clear. The science backs them up.
 
 Then Monday morning arrives. Your left shoulder has been aching for two weeks. Your sleep is fractured. You had three coffees before noon and skipped lunch because a deadline loomed. You know — intellectually — that the Neijing would have something to say about all of this. But what, exactly? Which pattern fits your situation? Which organ is complaining? Which of the five movements is out of balance?
 
@@ -21,11 +21,11 @@ That partner is AI. And this chapter will teach you how to use it — not as a r
 
 ---
 
-![AI Wellness Workflow](images/ch12-fig1-ai-tcm-workflow-en.svg)
+![AI Wellness Workflow](images/ch11-fig1-ai-tcm-workflow-en.svg)
 
 ---
 
-## 12.2 Why AI Is the Perfect Companion for TCM Wellness
+## 11.2 Why AI Is the Perfect Companion for TCM Wellness
 
 TCM's core methodology is individualized pattern differentiation — 辨证论治 (biàn zhèng lùn zhì). Two people walk into a clinic with the same headache. One has a red face, irritability, and a wiry pulse — Liver Yang Rising. The other has a pale complexion, fatigue, and a thready pulse — Blood Deficiency failing to nourish the head. Same symptom. Opposite causes. Opposite treatments.
 
@@ -46,7 +46,7 @@ But boundaries matter. Let's be explicit:
 
 ---
 
-## 12.3 How to Ask AI About Health: Prompt Engineering for Wellness
+## 11.3 How to Ask AI About Health: Prompt Engineering for Wellness
 
 The quality of AI's output depends almost entirely on the quality of your input. A vague question gets a vague answer. A precise, context-rich question gets a response that can genuinely change your week.
 
@@ -94,7 +94,7 @@ This prompt gives AI everything it needs. The response will likely identify a Sp
 
 ---
 
-## 12.4 Five Real-World Scenarios: AI Wellness in Action
+## 11.4 Five Real-World Scenarios: AI Wellness in Action
 
 ### Scenario 1: Insomnia — When the Spirit Won't Settle
 
@@ -156,9 +156,9 @@ This prompt gives AI everything it needs. The response will likely identify a Sp
 >
 > Background: 31, male, generally healthy, no chronic conditions. I exercise occasionally (running 2x/week) but do no stretching or mobility work. My posture at my desk is probably terrible. I carry stress in my shoulders.
 >
-> Analyze from both the Neijing's meridian/fascia perspective (Chapter 10's Tai Yang Bladder channel) and modern myofascial/ergonomic science. Give me: (1) a 10-minute daily mobility routine I can do at my desk, (2) ergonomic adjustments, (3) acupoints for self-massage when pain flares, and (4) any dietary or lifestyle factors that might be contributing.
+> Analyze from both the Neijing's meridian/fascia perspective (Chapter 9's Tai Yang Bladder channel) and modern myofascial/ergonomic science. Give me: (1) a 10-minute daily mobility routine I can do at my desk, (2) ergonomic adjustments, (3) acupoints for self-massage when pain flares, and (4) any dietary or lifestyle factors that might be contributing.
 
-**What to expect:** Connection between the Bladder meridian (Tai Yang, running from head down the entire posterior chain) and the Superficial Back Line in modern fascial anatomy. Practical desk exercises targeting the upper trapezius, levator scapulae, and suboccipital muscles. Acupoints: Feng Chi (风池, GB20), Jian Jing (肩井, GB21), He Gu (合谷, LI4). Ergonomic checklist matching Chapter 11's sitting principles. Reminder that running without mobility work often tightens the posterior chain further.
+**What to expect:** Connection between the Bladder meridian (Tai Yang, running from head down the entire posterior chain) and the Superficial Back Line in modern fascial anatomy. Practical desk exercises targeting the upper trapezius, levator scapulae, and suboccipital muscles. Acupoints: Feng Chi (风池, GB20), Jian Jing (肩井, GB21), He Gu (合谷, LI4). Ergonomic checklist matching Chapter 10's sitting principles. Reminder that running without mobility work often tightens the posterior chain further.
 
 ### Scenario 5: Seasonal Wellness — Living with Spring
 
@@ -170,13 +170,13 @@ This prompt gives AI everything it needs. The response will likely identify a Sp
 >
 > Using Su Wen Chapter 2 (四气调神大论) and the Neijing's spring wellness principles, plus any modern chronobiology that's relevant, design a spring wellness protocol covering: sleep timing, diet, emotional regulation, movement, and any specific practices for this season. My goal is to ride spring's rising Yang energy without letting it scatter me.
 
-**What to expect:** AI should reference 「春三月，此谓发陈」 — spring is the season of emergence, when Liver Qi naturally rises. For someone already prone to Liver Qi Stagnation, this rising energy can manifest as irritability, eye symptoms (Liver opens to the eyes), and scattered restlessness. Protocol: sleep pattern shift (夜卧早起 — slightly later to bed, earlier to rise), sour-reducing/sweet-increasing diet to support the Liver-Spleen relationship, gentle stretching and outdoor walking (「广步于庭」from Chapter 11), green vegetables, and emotional practices to channel the rising Qi constructively rather than suppressing it.
+**What to expect:** AI should reference 「春三月，此谓发陈」 — spring is the season of emergence, when Liver Qi naturally rises. For someone already prone to Liver Qi Stagnation, this rising energy can manifest as irritability, eye symptoms (Liver opens to the eyes), and scattered restlessness. Protocol: sleep pattern shift (夜卧早起 — slightly later to bed, earlier to rise), sour-reducing/sweet-increasing diet to support the Liver-Spleen relationship, gentle stretching and outdoor walking (「广步于庭」from Chapter 10), green vegetables, and emotional practices to channel the rising Qi constructively rather than suppressing it.
 
 **Why this scenario matters:** Seasonal wellness is where the Neijing's principles feel most alien to modern life. We heat and cool our buildings to a uniform 22°C year-round. We eat strawberries in December and pumpkin in July. We wake to the same alarm in every season. The Neijing insists that ignoring seasonal shifts is not just suboptimal — it actively generates disease over years. Asking AI to build a season-specific protocol forces you to reconnect with a rhythm that modern infrastructure has made easy to forget.
 
 ---
 
-## 12.5 Constitutional Self-Assessment: AI as Your Body-Type Analyst
+## 11.5 Constitutional Self-Assessment: AI as Your Body-Type Analyst
 
 TCM recognizes nine constitutional types (体质, tǐ zhì), classified by Professor Wang Qi of Beijing University of Chinese Medicine. Your constitution is your body's default setting — the terrain on which all symptoms arise. Knowing your type is the single most useful piece of self-knowledge for applying everything in this book.
 
@@ -206,7 +206,7 @@ Once you have your constitutional profile, add it to the beginning of every futu
 
 ---
 
-## 12.6 The AI Wellness Journal: Tracking Your Health Evolution
+## 11.6 The AI Wellness Journal: Tracking Your Health Evolution
 
 The most powerful use of AI is not a single conversation. It is an ongoing dialogue — a wellness journal where AI serves as your analyst.
 
@@ -252,7 +252,7 @@ This is not magic. It is systematic self-observation mediated by a tool that nev
 
 ---
 
-## 12.7 Red Lines: When You MUST See a Doctor
+## 11.7 Red Lines: When You MUST See a Doctor
 
 AI enthusiasm has a dark side: the temptation to replace medical care with chatbot conversations. This section is the most important in the chapter. Read it twice.
 
@@ -291,7 +291,7 @@ One more boundary worth stating plainly: AI does not know what it does not know.
 
 ---
 
-## 12.8 Reflection Moment
+## 11.8 Reflection Moment
 
 Consider the relationship between the Yellow Emperor and Qi Bo across eleven chapters of this book. The Emperor did not accept every answer passively. He questioned, challenged, asked "why" and "how." Qi Bo explained, reasoned, sometimes admitted the limits of knowledge. The dialogue was collaborative. The final decisions — about policy, about health, about the governance of his own body — belonged to the Emperor.
 
@@ -309,9 +309,9 @@ AI gives you access to more knowledge than any individual in human history has e
 
 ## Today's Actions
 
-- ⚡ **Right now:** Open any AI assistant and paste the constitutional assessment prompt from Section 12.5. Answer its questions honestly. Save the result — this is your wellness baseline.
-- ⚡ **Today:** Take one health question you've been wondering about and rewrite it using the Five-Layer Template from Section 12.3. Compare the AI response to what you would have gotten from a vague one-line question.
-- 🔄 **This Sunday:** Write your first weekly wellness check-in using the template from Section 12.6. Begin a weekly practice of reporting to AI and reviewing its analysis.
+- ⚡ **Right now:** Open any AI assistant and paste the constitutional assessment prompt from Section 11.5. Answer its questions honestly. Save the result — this is your wellness baseline.
+- ⚡ **Today:** Take one health question you've been wondering about and rewrite it using the Five-Layer Template from Section 11.3. Compare the AI response to what you would have gotten from a vague one-line question.
+- 🔄 **This Sunday:** Write your first weekly wellness check-in using the template from Section 11.6. Begin a weekly practice of reporting to AI and reviewing its analysis.
 
 ---
 
@@ -340,7 +340,7 @@ By Day 21, you will have established a feedback loop: observe → report → ana
 
 ---
 
-## 12.9 Summary & Bridge
+## 11.9 Summary & Bridge
 
 This chapter taught you to do something the Yellow Emperor could not: consult an advisor that has read everything, forgets nothing, and is available at three in the morning when your back aches and your mind races.
 

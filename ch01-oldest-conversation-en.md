@@ -114,7 +114,7 @@ Yin-Yang (Chapter 7) is the meta-principle unifying all five pillars — not a m
 
 Sleep (Chapter 8) is the body's recovery engine, deeply linked to rhythm, emotion, and movement.
 
-Chapter 9 integrates everything into a cohesive, actionable modern wellness practice.
+The chapters that follow unfold each of these dimensions, translating twenty-five centuries of wisdom into practices you can begin today.
 
 ## 1.6 How Qi Bo Would Diagnose Modern Life
 
@@ -206,7 +206,7 @@ Thirty-six characters in the original Chinese. The entire wellness philosophy of
 - "Ate and drank with moderation" → Nourishment (Chapter 3)
 - "Maintained regular routines" → Rhythm and Sleep (Chapters 2, 8)
 - "Did not recklessly exhaust themselves" → Movement and Emotional Balance (Chapters 4, 5)
-- "Body and spirit remained whole together" → Integration (Chapter 9)
+- "Body and spirit remained whole together" → body-spirit unity, woven throughout the book
 
 This passage is both manifesto and diagnosis — and the departure point for every chapter ahead.
 

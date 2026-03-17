@@ -1,4 +1,4 @@
-# Chapter 11 · Breath and Posture — The Art of Walking, Sitting, Lying, and Standing
+# Chapter 10 · Breath and Posture — The Art of Walking, Sitting, Lying, and Standing
 
 > 恬淡虚无，真气从之，精神内守，病安从来。
 > *Tián dàn xū wú, zhēn qì cóng zhī, jīng shén nèi shǒu, bìng ān cóng lái.*
@@ -14,7 +14,7 @@
 >
 > — *Su Wen*, Chapter 9 (六节藏象论)
 
-## 11.1 You Breathe 20,000 Times a Day and Never Notice
+## 10.1 You Breathe 20,000 Times a Day and Never Notice
 
 Place one hand on your chest and the other on your belly. Take a normal breath — don't change anything, just notice. Which hand moved?
 
@@ -30,7 +30,7 @@ That shift is not metaphorical. It is measurable, reproducible, and backed by th
 
 ---
 
-## 11.2 Diaphragmatic Breathing: The Science Behind Ancient Breathwork
+## 10.2 Diaphragmatic Breathing: The Science Behind Ancient Breathwork
 
 The diaphragm is a dome-shaped muscle that separates the thoracic cavity from the abdominal cavity. When it contracts, it flattens downward, expanding the lungs from below and drawing air in. When it relaxes, it domes upward, compressing the lungs and pushing air out. This is the body's primary breathing mechanism — the one infants use instinctively and most adults have abandoned.
 
@@ -63,7 +63,7 @@ The 4-count inhale and 6-count exhale create a roughly 6-breaths-per-minute rhyt
 
 ---
 
-## 11.3 The Six Healing Sounds: One Sound, One Organ
+## 10.3 The Six Healing Sounds: One Sound, One Organ
 
 The Six Healing Sounds (六字诀, liù zì jué) is one of China's oldest documented breathwork practices, codified during the Southern and Northern Dynasties (420–589 CE) by the physician Tao Hongjing. Each of the six sounds is performed on a slow exhale, paired with a specific mouth shape and body movement:
 
@@ -78,7 +78,7 @@ The Six Healing Sounds (六字诀, liù zì jué) is one of China's oldest docum
 
 The classical claim is that each sound's specific vibration resonates with and "cleanses" its corresponding organ. Taken literally, this is hard to defend — vocal sounds do not selectively vibrate individual organs. But taken functionally, the practice does several things that modern science can explain.
 
-**Extended exhale, every time.** Each healing sound is performed on a prolonged, controlled exhale. Six sounds × 6 repetitions each = 36 extended exhales in a single session. This alone produces significant parasympathetic activation through the vagal mechanism described in Section 11.2.
+**Extended exhale, every time.** Each healing sound is performed on a prolonged, controlled exhale. Six sounds × 6 repetitions each = 36 extended exhales in a single session. This alone produces significant parasympathetic activation through the vagal mechanism described in Section 10.2.
 
 **Vocalization and vagus nerve stimulation.** Producing vocal sounds activates the laryngeal muscles, which are innervated by the recurrent laryngeal branch of the vagus nerve. Humming, chanting, and sustained vocalization have been shown to increase vagal tone. A 2013 study by Vickhoff and colleagues demonstrated that group singing synchronizes heart rate rhythms among participants, likely through shared respiratory patterns and vagal activation. The Six Healing Sounds function as a structured vocalization practice — a form of self-administered vagal stimulation.
 
@@ -92,7 +92,7 @@ The Six Healing Sounds will not cure liver disease or repair a failing kidney. B
 
 ---
 
-## 11.4 Walking: The Best Exercise Is the Simplest
+## 10.4 Walking: The Best Exercise Is the Simplest
 
 *Su Wen* Chapter 2 (四气调神大论) describes the ideal spring lifestyle: 「广步于庭」(guǎng bù yú tíng) — "walk broadly in the courtyard." The instruction appears in a passage about seasonal living. In spring, when nature stirs, the appropriate human response is to rise early and walk — not run, not sprint, not train — walk. Broadly. Without urgency.
 
@@ -108,7 +108,7 @@ This is not a throwaway line. Walking occupies a unique position in human physio
 
 Most people walk on autopilot. The mechanics matter more than you think.
 
-- **Heel strike first, then roll through the midfoot to the toes.** The heel-to-toe roll engages the plantar fascia and the entire Superficial Back Line (see Chapter 10). Flat-footed slapping absorbs shock poorly and under-stimulates the foot's sensory network.
+- **Heel strike first, then roll through the midfoot to the toes.** The heel-to-toe roll engages the plantar fascia and the entire Superficial Back Line (see Chapter 9). Flat-footed slapping absorbs shock poorly and under-stimulates the foot's sensory network.
 - **Slight knee bend at contact.** A fully extended knee at heel strike sends impact forces straight into the joint. A slight bend (5–10°) allows the quadriceps and hamstrings to act as shock absorbers.
 - **Neutral pelvis.** Neither tucked under (posterior tilt, which flattens the lumbar curve) nor exaggerated (anterior tilt, which creates excessive lordosis). The pelvis should sit level, like a bowl of water you don't want to spill.
 - **Gaze forward, not down.** Looking at your phone while walking shifts the head forward by 2–4 inches. The head weighs 10–12 pounds. At a 45° forward tilt, the effective load on the cervical spine reaches 50 pounds — the weight of a seven-year-old sitting on your neck.
@@ -121,7 +121,7 @@ The simplest wellness intervention in this book: walk for 20 minutes every day. 
 
 ---
 
-## 11.5 Sitting: Modern Life's Greatest Postural Crisis
+## 10.5 Sitting: Modern Life's Greatest Postural Crisis
 
 *Su Wen* Chapter 23 (宣明五气篇) delivers its verdict in four characters: 「久坐伤肉」(jiǔ zuò shāng ròu) — "prolonged sitting injures the flesh." We covered this in Chapter 5's discussion of the Five Exhaustions. Now let's go deeper — not into why sitting is harmful, but into how to sit when sitting is unavoidable.
 
@@ -153,7 +153,7 @@ The practical rule: every 50 minutes, stand up, walk for 2 minutes, and perform 
 
 ---
 
-## 11.6 Lying: Sleep Posture and Breathing Quality
+## 10.6 Lying: Sleep Posture and Breathing Quality
 
 The Neijing does not discuss sleep posture in exhaustive detail, but classical Chinese medical texts that built on the Neijing tradition — particularly Sun Simiao's *Qianjin Yaofang* (千金要方, 7th century CE) — recommend the right lateral recumbent position for sleep: lying on the right side, legs slightly bent, right hand under the cheek or pillow, left hand resting on the left hip.
 
@@ -188,7 +188,7 @@ Combine sleep posture and pre-sleep breathing into a single habit: lie on your s
 
 ---
 
-## 11.7 Standing: Zhan Zhuang — Stillness as Exercise
+## 10.7 Standing: Zhan Zhuang — Stillness as Exercise
 
 The Neijing's movement philosophy includes a paradox: sometimes the most powerful exercise is not moving at all.
 
@@ -229,11 +229,11 @@ After 21 days, most practitioners report reduced lower back stiffness, improved 
 
 ---
 
-![Breath & Posture: The Daily Regulation System](images/ch11-fig1-breath-posture-en.svg)
+![Breath & Posture: The Daily Regulation System](images/ch10-fig1-breath-posture-en.svg)
 
 ---
 
-## 11.8 Daily Practice: Breath and Posture Protocol
+## 10.8 Daily Practice: Breath and Posture Protocol
 
 The principles in this chapter converge into a simple daily protocol. No equipment. No gym membership. No special clothing. Four moments in the day, four brief practices.
 
@@ -299,7 +299,7 @@ Compare Day 1 to Day 21. If morning stress drops by 2+ points, sleep onset impro
 
 ---
 
-## 11.9 Summary & Bridge
+## 10.9 Summary & Bridge
 
 This chapter began with a hand on the belly and a question: which hand moved? That question — trivial on the surface — opens a door to the Neijing's most intimate health teaching. You cannot control your liver metabolism, your immune response, or your bone density by an act of will. But you can control your breath. And through breath, you shift the autonomic dial that governs everything else.
 
@@ -309,11 +309,11 @@ We covered seven practices in this chapter: diaphragmatic breathing, the Six Hea
 
 「天气通于肺」. Heaven's qi connects to the Lung. Every breath you take is an exchange with the atmosphere — oxygen in, carbon dioxide out, autonomic state adjusted, nervous system calibrated. You have been doing it since the moment you were born. The only question is whether you do it with awareness or without.
 
-The previous chapters gave you rhythm, food, emotional balance, movement, prevention, yin-yang, sleep, a 90-day plan, and the invisible fascial network. This chapter gives you the thread that runs through all of them: breath. It is the one thing you can change in this moment, in this breath, right now.
+The previous chapters gave you rhythm, food, emotional balance, movement, prevention, yin-yang, sleep, and the invisible fascial network. This chapter gives you the thread that runs through all of them: breath. It is the one thing you can change in this moment, in this breath, right now.
 
 Change it. Notice what happens.
 
-But breath and posture, powerful as they are, still operate within the framework of general principles. The Neijing's deepest insight is that every body is different — different constitution, different imbalances, different needs. In the final chapter, we turn from the ancient to the future: when artificial intelligence learns to read classical texts and wearable devices monitor your HRV in real time, the Neijing's wisdom enters a new era of personalization. The Yellow Emperor asked Qi Bo for guidance. You are about to learn how to ask AI.
+But breath and posture, powerful as they are, still operate within the framework of general principles. The Neijing's deepest insight is that every body is different — different constitution, different imbalances, different needs. In Chapter 11, we turn from the ancient to the future: when artificial intelligence learns to read classical texts and wearable devices monitor your HRV in real time, the Neijing's wisdom enters a new era of personalization. The Yellow Emperor asked Qi Bo for guidance. You are about to learn how to ask AI.
 
 ---
 

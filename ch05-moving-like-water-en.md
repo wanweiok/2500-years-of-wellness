@@ -107,7 +107,7 @@ Over the past two decades, fascia science has provided an unexpected anatomical 
 
 Fascia — the connective tissue network wrapping every muscle, bone, and organ — was long dismissed by anatomists as irrelevant packing material. In 2001, Thomas Myers published *Anatomy Trains*, proposing that muscles are not isolated units but are linked by fascia into whole-body force transmission chains. In 2003, Robert Schleip at Ulm University demonstrated that fascia is densely populated with mechanoreceptors and nerve endings — fascia is not dead wrapping, it is a body-wide sensory organ.
 
-This resonates deeply with the Neijing's meridian concept. Meridians describe a functional network: "stimulate point A, and point B responds." Fascia science discovered a mechanical transmission network: "stretch the sole, and the back responds." The two maps overlap at numerous points (see Chapter 10 for details).
+This resonates deeply with the Neijing's meridian concept. Meridians describe a functional network: "stimulate point A, and point B responds." Fascia science discovered a mechanical transmission network: "stretch the sole, and the back responds." The two maps overlap at numerous points (see Chapter 9 for details).
 
 **Core implications of fascia theory for movement:**
 

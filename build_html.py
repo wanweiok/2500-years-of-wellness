@@ -15,10 +15,9 @@ CHAPTERS_ZH = [
     ("ch06", "ch06-art-of-prevention-zh.md", "第六章 · 治未病"),
     ("ch07", "ch07-yin-yang-balance-zh.md", "第七章 · 阴阳之道"),
     ("ch08", "ch08-sleep-healer-zh.md", "第八章 · 睡眠大药"),
-    ("ch09", "ch09-90-day-reset-zh.md", "第九章 · 九十天养生计划"),
-    ("ch10", "ch10-invisible-network-zh.md", "第十章 · 看不见的网络"),
-    ("ch11", "ch11-breath-and-posture-zh.md", "第十一章 · 呼吸与姿态"),
-    ("ch12", "ch12-ai-meets-tcm-zh.md", "第十二章 · 当AI遇上中医"),
+    ("ch09", "ch09-invisible-network-zh.md", "第九章 · 看不见的网络"),
+    ("ch10", "ch10-breath-and-posture-zh.md", "第十章 · 呼吸与姿态"),
+    ("ch11", "ch11-ai-meets-tcm-zh.md", "第十一章 · 当AI遇上中医"),
 ]
 
 CHAPTERS_EN = [
@@ -31,10 +30,9 @@ CHAPTERS_EN = [
     ("ch06", "ch06-art-of-prevention-en.md", "Ch 6 · The Art of Prevention"),
     ("ch07", "ch07-yin-yang-balance-en.md", "Ch 7 · The Yin-Yang Balance"),
     ("ch08", "ch08-sleep-healer-en.md", "Ch 8 · The Sleep Healer"),
-    ("ch09", "ch09-90-day-reset-en.md", "Ch 9 · The 90-Day Reset"),
-    ("ch10", "ch10-invisible-network-en.md", "Ch 10 · The Invisible Network"),
-    ("ch11", "ch11-breath-and-posture-en.md", "Ch 11 · Breath and Posture"),
-    ("ch12", "ch12-ai-meets-tcm-en.md", "Ch 12 · When AI Meets TCM"),
+    ("ch09", "ch09-invisible-network-en.md", "Ch 9 · The Invisible Network"),
+    ("ch10", "ch10-breath-and-posture-en.md", "Ch 10 · Breath and Posture"),
+    ("ch11", "ch11-ai-meets-tcm-en.md", "Ch 11 · When AI Meets TCM"),
 ]
 
 
@@ -61,8 +59,9 @@ def convert_md(md_text: str) -> str:
     def replace_img(m):
         alt = m.group(1)
         src = m.group(2)
-        if src.startswith("images/") and src.endswith(".svg"):
-            svg_path = ROOT / src
+        src_norm = src.lstrip("./") if src.startswith("./") else src
+        if src_norm.startswith("images/") and (src_norm.endswith(".svg") or src_norm.endswith(".png")):
+            svg_path = ROOT / src_norm
             data_uri = svg_to_data_uri(svg_path)
             if data_uri:
                 return (

@@ -190,30 +190,7 @@ This is the *Neijing*'s ultimate answer to emotional health: the best emotional 
 
 ---
 
-## 4.8 Daily Practice: Emotional Hygiene
-
-The Neijing is a manual, not a treatise. Here are practical emotional wellness routines derived from its principles.
-
-**Morning emotional check-in.** When you wake, take sixty seconds to notice your emotional baseline. No judgment, no fixing — just awareness. Irritable? Anxious? Calm? Flat? Awareness itself is the first act of regulation.
-
-**The Six Healing Sounds (*Liù Zì Jué*: 嘘呵呼呬吹嘻).** An ancient breathwork practice rooted in Neijing organ theory, where each syllable's vibration targets a specific organ:
-
-- **Xū** (嘘) — soothes the Liver, releases anger
-- **Hē** (呵) — calms the Heart, settles agitation
-- **Hū** (呼) — strengthens the Spleen, dissolves overthinking
-- **Sī** (呬) — moistens the Lungs, releases grief
-- **Chuī** (吹) — tonifies the Kidneys, eases fear
-- **Xī** (嘻) — harmonizes the Triple Burner, opens whole-body flow
-
-**Seasonal emotional alignment.** In spring, Liver Qi rises — stretch, expand, avoid suppression. In summer, Heart Qi peaks — welcome joy, but avoid letting excitement scatter your focus. In autumn, Lung Qi descends — allow quiet reflection and a measure of wistfulness. In winter, Kidney Qi stores — rest deeply and avoid draining reserves through worry.
-
-**Movement as emotional medicine.** Physical movement redirects emotional Qi. When angry, walk (to disperse rising Qi). When grieving, open your chest (to expand collapsing Lung Qi). When fearful, practice standing meditation (to ground descending Qi). When overthinking, do rhythmic exercise like running or swimming (to unknot stagnant Qi).
-
-**Evening emotional clearing.** Before sleep, take three deep breaths. With each exhale, visualize releasing the accumulated emotional residue of the day. This is deliberate parasympathetic activation to lower cortisol and prepare the body for restorative sleep.
-
----
-
-## 4.9 Reflection Moment
+## 4.8 Reflection Moment
 
 Close your eyes. Ask yourself one question:
 
@@ -255,7 +232,7 @@ Each morning, write down one word describing your emotional baseline (e.g., anxi
 
 ---
 
-## 4.10 Summary and Bridge to Chapter 5
+## 4.9 Summary and Bridge to Chapter 5
 
 Emotions are not merely "in your head." They are physiological events that travel specific pathways and affect specific organs.
 
