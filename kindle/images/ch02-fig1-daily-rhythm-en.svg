@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 850" width="860" height="850">
-  <defs>
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.1"/>
-    </filter>
-  </defs>
+  <defs/>
 
   <rect width="860" height="850" fill="#ffffff" rx="6"/>
 
   <text x="430" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c" text-anchor="middle">Daily Circadian Rhythm Schedule</text>
   <text x="430" y="58" font-family="Arial, sans-serif" font-size="12" fill="#2d5a88" text-anchor="middle">Twelve Meridian Periods · Organ Clock · Traditional &amp; Modern</text>
 
-  <g filter="url(#shadow)">
+  <g>
     <path d="M388.6 295.5 L357.5 179.6 A280 280 0 0 1 502.5 179.6 L471.4 295.5 A160 160 0 0 0 388.6 295.5Z" fill="#1a3a5c"/>
     <path d="M471.4 295.5 L502.5 179.6 A280 280 0 0 1 627.9 252.1 L543.1 336.9 A160 160 0 0 0 471.4 295.5Z" fill="#1a3a5c"/>
     <path d="M543.1 336.9 L627.9 252.1 A280 280 0 0 1 700.4 377.5 L584.5 408.6 A160 160 0 0 0 543.1 336.9Z" fill="#2d5a88"/>

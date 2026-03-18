@@ -1,60 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 600" width="860">
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#5b9bd5"/>
-    </marker>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#f0f0f0"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 600" width="860" height="600">
+  <defs/>
 
-  <rect width="860" height="600" rx="8" fill="url(#bg)"/>
+  <rect width="860" height="600" rx="8" fill="#ffffff"/>
   <text x="430" y="28" text-anchor="middle" fill="#1a3a5c" font-family="Arial, sans-serif" font-size="18" font-weight="bold">The Neijing Movement Protocol: Flow All Day</text>
 
-  <!-- Box 1: Morning -->
   <rect x="230" y="46" width="400" height="68" rx="6" fill="#1a3a5c"/>
-  <text x="430" y="71" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Morning 57 AM</text>
-  <text x="430" y="99" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">Daoyin stretches + deep breathing · 10 min</text>
+  <text x="430" y="71" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Morning 5&#8211;7 AM</text>
+  <text x="430" y="99" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">Daoyin stretches + deep breathing &#183; 10 min</text>
 
-  <!-- Arrow 1 -->
-  <line x1="430" y1="114" x2="430" y2="132" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="430" y1="114" x2="430" y2="134" stroke="#5b9bd5" stroke-width="2"/>
+  <polygon points="423,130 430,140 437,130" fill="#5b9bd5"/>
 
-  <!-- Box 2: Mid-morning -->
   <rect x="230" y="140" width="400" height="68" rx="6" fill="#2d5a88"/>
   <text x="430" y="165" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Mid-Morning</text>
-  <text x="430" y="193" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">Walk outdoors in sunlight · 1520 min</text>
+  <text x="430" y="193" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">Walk outdoors in sunlight &#183; 15&#8211;20 min</text>
 
-  <!-- Arrow 2 -->
-  <line x1="430" y1="208" x2="430" y2="226" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="430" y1="208" x2="430" y2="228" stroke="#5b9bd5" stroke-width="2"/>
+  <polygon points="423,224 430,234 437,224" fill="#5b9bd5"/>
 
-  <!-- Box 3: Movement snack -->
   <rect x="230" y="234" width="400" height="68" rx="6" fill="#5b9bd5"/>
   <text x="430" y="259" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Every 50 Minutes</text>
-  <text x="430" y="287" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">Movement snack: stand + stretch + 5 breaths · 2 min</text>
+  <text x="430" y="287" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">Movement snack: stand + stretch + 5 breaths &#183; 2 min</text>
 
-  <!-- Arrow 3 -->
-  <line x1="430" y1="302" x2="430" y2="320" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="430" y1="302" x2="430" y2="322" stroke="#5b9bd5" stroke-width="2"/>
+  <polygon points="423,318 430,328 437,318" fill="#5b9bd5"/>
 
-  <!-- Box 4: Afternoon -->
   <rect x="230" y="328" width="400" height="68" rx="6" fill="#1a3a5c"/>
-  <text x="430" y="353" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Afternoon 35 PM (Bladder Meridian)</text>
-  <text x="430" y="381" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">Peak exercise: moderate intensity · 30 min</text>
+  <text x="430" y="353" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Afternoon 3&#8211;5 PM (Bladder Meridian)</text>
+  <text x="430" y="381" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">Peak exercise: moderate intensity &#183; 30 min</text>
 
-  <!-- Arrow 4 -->
-  <line x1="430" y1="396" x2="430" y2="414" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="430" y1="396" x2="430" y2="416" stroke="#5b9bd5" stroke-width="2"/>
+  <polygon points="423,412 430,422 437,412" fill="#5b9bd5"/>
 
-  <!-- Box 5: Evening -->
   <rect x="230" y="422" width="400" height="68" rx="6" fill="#2d5a88"/>
   <text x="430" y="447" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Evening</text>
-  <text x="430" y="475" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">Acupressure: Zusanli · Yongquan · Hegu · 5 min</text>
+  <text x="430" y="475" text-anchor="middle" fill="#f0f0f0" font-family="Arial, sans-serif" font-size="14">Acupressure: Zusanli &#183; Yongquan &#183; Hegu &#183; 5 min</text>
 
-  <!-- Arrow 5 -->
-  <line x1="430" y1="490" x2="430" y2="508" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="430" y1="490" x2="430" y2="510" stroke="#5b9bd5" stroke-width="2"/>
+  <polygon points="423,506 430,516 437,506" fill="#5b9bd5"/>
 
-  <!-- Box 6: Before bed -->
   <rect x="230" y="516" width="400" height="68" rx="6" fill="#5b9bd5"/>
   <text x="430" y="541" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="bold">Before Bed</text>
-  <text x="430" y="569" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">Slow stretching, no vigorous exercise · 10 min</text>
+  <text x="430" y="569" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">Slow stretching, no vigorous exercise &#183; 10 min</text>
 </svg>
